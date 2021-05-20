@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>中英文缩写 | Hexo</title>
+  <meta name="keywords" content="">
+  <meta name="description" content="中英文缩写 | Hexo">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="#3C&amp;emsp;&amp;emsp;3C：3C 数码的简称，3C 指的是 Computer、Communication、Consumer Electronics，即电脑、通讯、消费电子产品。（引申：消费电子产品）   AADX&amp;emsp;&amp;emsp;ADX：AD Exchange，广告交易平台。 AOI&amp;emsp;&amp;emsp;AOI：Area of Interest，兴趣面、信息面，指的是地图数据中的区">
+<meta property="og:type" content="article">
+<meta property="og:title" content="中英文缩写">
+<meta property="og:url" content="https://study-keep.github.io/210520-150930">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="#3C&amp;emsp;&amp;emsp;3C：3C 数码的简称，3C 指的是 Computer、Communication、Consumer Electronics，即电脑、通讯、消费电子产品。（引申：消费电子产品）   AADX&amp;emsp;&amp;emsp;ADX：AD Exchange，广告交易平台。 AOI&amp;emsp;&amp;emsp;AOI：Area of Interest，兴趣面、信息面，指的是地图数据中的区">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-05-20T07:09:30.000Z">
+<meta property="article:modified_time" content="2021-05-20T08:07:07.698Z">
+<meta property="article:author" content="Vera">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="icon" href="/img/avatar.jpg">
+
+<link href="/css/style.css?v=1.1.0" rel="stylesheet">
+
+<link href="/css/hl_theme/sublime.css?v=1.1.0" rel="stylesheet">
+
+<link href="//cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css" rel="stylesheet">
+
+<script src="//cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="/js/titleTip.js?v=1.1.0" ></script>
+
+<script src="//cdn.jsdelivr.net/npm/highlightjs@9.16.2/highlight.pack.min.js"></script>
+<script>
+    hljs.initHighlightingOnLoad();
+</script>
+
+<script src="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js"></script>
+
+
+
+<script src="//cdn.jsdelivr.net/npm/jquery.cookie@1.4.1/jquery.cookie.min.js" ></script>
+
+<script src="/js/iconfont.js?v=1.1.0" ></script>
+
+<meta name="generator" content="Hexo 5.4.0"></head>
+<div style="display: none">
+  <input class="theme_disqus_on" value="false">
+  <input class="theme_preload_comment" value="">
+  <input class="theme_blog_path" value="">
+  <input id="theme_shortcut" value="true" />
+  <input id="theme_highlight_on" value="true" />
+  <input id="theme_code_copy" value="true" />
+</div>
+
+
+
+<body>
+<aside class="nav">
+    <div class="nav-left">
+        <a href="/"
+   class="avatar_target">
+    <img class="avatar"
+         src="/img/avatar.jpg"/>
+</a>
+<div class="author">
+    <span>Vera</span>
+</div>
+
+<div class="icon">
+    
+        
+            <a title="rss"
+               href="/atom.xml"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-rss"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="github"
+               href="https://github.com/yelog"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-github"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="facebook"
+               href="https://www.facebook.com/faker.tops"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-facebook"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+    
+        
+    
+        
+            <a title="instagram"
+               href="https://www.facebook.com/faker.tops"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-instagram"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="reddit"
+               href="https://www.reddit.com/user/yelog/"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-reddit"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="weibo"
+               href="http://weibo.com/u/2307534817"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-weibo"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="jianshu"
+               href="https://www.jianshu.com/u/ff56736de7cf"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-jianshu"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="zhihu"
+               href="https://www.zhihu.com/people/jaytp/activities"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-zhihu"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+    
+        
+            <a title="oschina"
+               href="https://my.oschina.net/yelog"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-oschina"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+    
+        
+            <a title="email"
+               href="mailto:jaytp@qq.com"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-email"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="qq"
+               href="http://wpa.qq.com/msgrd?v=3&uin=872336115&site=qq&menu=yes"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-qq"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="kugou"
+               href="https://www.kugou.com/"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-kugou"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="neteasemusic"
+               href="https://music.163.com/#/user/home?id=88151013"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-neteasemusic"></use>
+                    </svg>
+                
+            </a>
+        
+    
+</div>
+
+
+
+
+<ul>
+    <li>
+        <div class="all active" data-rel="全部文章">全部文章
+            
+                <small>(4)</small>
+            
+        </div>
+    </li>
+    
+        
+            
+                <li>
+                    <div data-rel="笔记">
+                        
+                        笔记
+                        <small>(1)</small>
+                        
+                    </div>
+                    
+                </li>
+            
+        
+    
+        
+            
+                <li>
+                    <div data-rel="小技巧">
+                        
+                        小技巧
+                        <small>(3)</small>
+                        
+                    </div>
+                    
+                </li>
+            
+        
+    
+</ul>
+<div class="left-bottom">
+    <div class="menus">
+        
+            
+            
+            
+    </div>
+    <div>
+        
+        
+    </div>
+</div>
+<input type="hidden" id="yelog_site_posts_number" value="4">
+<input type="hidden" id="yelog_site_word_count" value="1.8k">
+<div style="display: none">
+    <span id="busuanzi_value_site_uv"></span>
+    <span id="busuanzi_value_site_pv"></span>
+</div>
+
+    </div>
+    <div class="nav-right">
+        <div class="friends-area">
+    <div class="friends-title">
+        友情链接
+        <i class="iconfont icon-left"></i>
+    </div>
+    <div class="friends-content">
+        <ul>
+            
+            <li><a target="_blank" href="http://yelog.org/">叶落阁</a></li>
+            
+        </ul>
+    </div>
+</div>
+        <div class="title-list">
+    <div class="right-top">
+        <div id="default-panel">
+            <i class="iconfont icon-search" data-title="搜索 快捷键 i"></i>
+            <div class="right-title">全部文章</div>
+            <i class="iconfont icon-file-tree" data-title="切换到大纲视图 快捷键 w"></i>
+        </div>
+        <div id="search-panel">
+            <i class="iconfont icon-left" data-title="返回"></i>
+            <input id="local-search-input" autocomplete="off"/>
+            <label class="border-line" for="input"></label>
+            <i class="iconfont icon-case-sensitive" data-title="大小写敏感"></i>
+            <i class="iconfont icon-tag" data-title="标签"></i>
+        </div>
+        <div id="outline-panel" style="display: none">
+            <div class="right-title">大纲</div>
+            <i class="iconfont icon-list" data-title="切换到文章列表"></i>
+        </div>
+    </div>
+
+    <div class="tags-list">
+    <input id="tag-search" />
+    <div class="tag-wrapper">
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>excel</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>git</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>hexo</a>
+            </li>
+        
+    </div>
+
+</div>
+
+    
+    <nav id="title-list-nav">
+        
+        <a  class="全部文章 笔记 "
+           href="/210520-150930"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="中英文缩写">中英文缩写</span>
+            <span class="post-date" title="2021-05-20 15:09:30">2021/05/20</span>
+        </a>
+        
+        <a  class="全部文章 小技巧 "
+           href="/210520-110954"
+           data-tag="excel"
+           data-author="" >
+            <span class="post-title" title="excel部分功能效果介绍">excel部分功能效果介绍</span>
+            <span class="post-date" title="2021-05-20 11:09:54">2021/05/20</span>
+        </a>
+        
+        <a  class="全部文章 小技巧 "
+           href="/210519-174545"
+           data-tag="excel"
+           data-author="" >
+            <span class="post-title" title="excel使用小问题及解决方法">excel使用小问题及解决方法</span>
+            <span class="post-date" title="2021-05-19 17:45:45">2021/05/19</span>
+        </a>
+        
+        <a  class="全部文章 小技巧 "
+           href="/210518-160307"
+           data-tag="git,hexo"
+           data-author="" >
+            <span class="post-title" title="git&amp;hexo常见错误及解决方法">git&amp;hexo常见错误及解决方法</span>
+            <span class="post-date" title="2021-05-18 16:03:07">2021/05/18</span>
+        </a>
+        
+        <div id="no-item-tips">
+
+        </div>
+    </nav>
+    <div id="outline-list">
+    </div>
+</div>
+
+    </div>
+    <div class="hide-list">
+        <div class="semicircle" data-title="切换全屏 快捷键 s">
+            <div class="brackets first"><</div>
+            <div class="brackets">&gt;</div>
+        </div>
+    </div>
+</aside>
+<div id="post">
+    <div class="pjax">
+        <article id="post-中英文缩写" class="article article-type-post" itemscope itemprop="blogPost">
+    
+        <h1 class="article-title">中英文缩写</h1>
+    
+    <div class="article-meta">
+        
+        
+        
+        <span class="book">
+            <i class="iconfont icon-category"></i>
+            
+            
+            <a  data-rel="笔记">笔记</a>
+            
+        </span>
+        
+        
+    </div>
+    <div class="article-meta">
+        
+            发布时间 : <time class="date" title='最后更新: 2021-05-20 16:07:07'>2021-05-20 15:09</time>
+        
+    </div>
+    <div class="article-meta">
+        
+        <span>字数:1.4k</span>
+        
+        
+        
+    </div>
+    
+    <div class="toc-ref">
+    
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">#</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#3C"><span class="toc-text">3C</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#A"><span class="toc-text">A</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#ADX"><span class="toc-text">ADX</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AOI"><span class="toc-text">AOI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AQI"><span class="toc-text">AQI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#B"><span class="toc-text">B</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#C"><span class="toc-text">C</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#CPM"><span class="toc-text">CPM</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#D"><span class="toc-text">D</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#DAU"><span class="toc-text">DAU</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DMP"><span class="toc-text">DMP</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DSP"><span class="toc-text">DSP</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#E"><span class="toc-text">E</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#F"><span class="toc-text">F</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#G"><span class="toc-text">G</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#H"><span class="toc-text">H</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#I"><span class="toc-text">I</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#IAQI"><span class="toc-text">IAQI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IDFA"><span class="toc-text">IDFA</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IMEI"><span class="toc-text">IMEI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#J"><span class="toc-text">J</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#K"><span class="toc-text">K</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#KA"><span class="toc-text">KA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#L"><span class="toc-text">L</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#M"><span class="toc-text">M</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#MAC-%E5%9C%B0%E5%9D%80"><span class="toc-text">MAC 地址</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#MAU"><span class="toc-text">MAU</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#N"><span class="toc-text">N</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#O"><span class="toc-text">O</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#P"><span class="toc-text">P</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#POI"><span class="toc-text">POI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Q"><span class="toc-text">Q</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#QA"><span class="toc-text">QA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#R"><span class="toc-text">R</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#S"><span class="toc-text">S</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#SaaS"><span class="toc-text">SaaS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#SDET"><span class="toc-text">SDET</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#T"><span class="toc-text">T</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#U"><span class="toc-text">U</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#UDID"><span class="toc-text">UDID</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#UUID"><span class="toc-text">UUID</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#V"><span class="toc-text">V</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#W"><span class="toc-text">W</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#X"><span class="toc-text">X</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81"><span class="toc-text">消费电子产品</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Y"><span class="toc-text">Y</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Z"><span class="toc-text">Z</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Appendix"><span class="toc-text">Appendix</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1"><span class="toc-text">1.</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2"><span class="toc-text">2</span></a></li></ol></li></ol></li></ol>
+    
+<style>
+    .left-col .switch-btn,
+    .left-col .switch-area {
+        display: none;
+    }
+    .toc-level-3 i,
+    .toc-level-3 ol {
+        display: none !important;
+    }
+</style>
+</div>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h1 id=""><a href="#" class="headerlink" title="#"></a>#</h1><h2 id="3C"><a href="#3C" class="headerlink" title="3C"></a><span id="3C">3C</span></h2><p>&emsp;&emsp;<strong>3C</strong>：3C 数码的简称，3C 指的是 Computer、Communication、Consumer Electronics，即电脑、通讯、消费电子产品。（引申：<a href="#%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81">消费电子产品</a>）</p>
+<br>
+
+<h1 id="A"><a href="#A" class="headerlink" title="A"></a>A</h1><h2 id="ADX"><a href="#ADX" class="headerlink" title="ADX"></a><span id="ADX">ADX</span></h2><p>&emsp;&emsp;<strong>ADX</strong>：AD Exchange，广告交易平台。</p>
+<h2 id="AOI"><a href="#AOI" class="headerlink" title="AOI"></a><span id="AOI">AOI</span></h2><p>&emsp;&emsp;<strong>AOI</strong>：Area of Interest，兴趣面、信息面，指的是地图数据中的区域状的地理实体，如一个居民小区、一所大学、一个写字楼、一个产业园区、一个综合商场、一个医院、一个景区或一个体育馆等等。（引申：<a href="#POI">POI</a>）</p>
+<h2 id="AQI"><a href="#AQI" class="headerlink" title="AQI"></a><span id="AQI">AQI</span></h2><p>&emsp;&emsp;<strong>AQI</strong>：Air Quality Index，空气质量指数，对空气质量进行定量描述的数据。AQI 的值越小，空气质量越好。（引申：<a href="#IAQI">IAQI</a>）</p>
+<br>
+
+<h1 id="B"><a href="#B" class="headerlink" title="B"></a>B</h1><br>
+
+<h1 id="C"><a href="#C" class="headerlink" title="C"></a>C</h1><h2 id="CPM"><a href="#CPM" class="headerlink" title="CPM"></a><span id="CPM">CPM</span></h2><p>&emsp;&emsp;<strong>CPM</strong>：Cost Per Mille[mil]，千人成本。网络广告收费最好的方式是按照有多少人看到了广告来进行收费。CPM（千人成本）指的是在广告投放过程中，平均让一千个人听到或看到该广告一次一共所需要的广告成本，有相应计算公式。</p>
+<br>
+
+<h1 id="D"><a href="#D" class="headerlink" title="D"></a>D</h1><h2 id="DAU"><a href="#DAU" class="headerlink" title="DAU"></a><span id="DAU">DAU</span></h2><p>&emsp;&emsp;<strong>DAU</strong>：Daily Active User，日活跃用户数量。（引申：<a href="#MAU">MAU</a>）</p>
+<h2 id="DMP"><a href="#DMP" class="headerlink" title="DMP"></a><span id="DMP">DMP</span></h2><p>&emsp;&emsp;<strong>DMP</strong>：Data Management Platform，数据管理平台。</p>
+<h2 id="DSP"><a href="#DSP" class="headerlink" title="DSP"></a><span id="DSP">DSP</span></h2><p>&emsp;&emsp;<strong>DSP</strong>：Demand-Side Platform，（广告）需求方平台。</p>
+<br>
+
+<h1 id="E"><a href="#E" class="headerlink" title="E"></a>E</h1><br>
+
+<h1 id="F"><a href="#F" class="headerlink" title="F"></a>F</h1><br>
+
+<h1 id="G"><a href="#G" class="headerlink" title="G"></a>G</h1><br>
+
+<h1 id="H"><a href="#H" class="headerlink" title="H"></a>H</h1><br>
+
+<h1 id="I"><a href="#I" class="headerlink" title="I"></a>I</h1><h2 id="IAQI"><a href="#IAQI" class="headerlink" title="IAQI"></a><span id="IAQI">IAQI</span></h2><p>&emsp;&emsp;<strong>IAQI</strong>：Individual Air Quality Index，空气质量分指数，指的是根据单项污染物得出的空气质量指数。（引申：<a href="#AQI">AQI</a>）</p>
+<h2 id="IDFA"><a href="#IDFA" class="headerlink" title="IDFA"></a><span id="IDFA">IDFA</span></h2><p>&emsp;&emsp;<strong>IDFA</strong>：Identifier for Advertising，可以用来打通不同 app 之间的广告。比如在淘宝里搜索了某个商品之后，再用浏览器去浏览网页的时候，那个网页的广告就会展示相应的那个商品的广告。用户可以重置 IDFA，使别人不能再跟踪到用户的行为。（引申：<a href="#UDID">UDID</a>、<a href="#UUID">UUID</a>）</p>
+<h2 id="IMEI"><a href="#IMEI" class="headerlink" title="IMEI"></a><span id="IMEI">IMEI</span></h2><p>&emsp;&emsp;<strong>IMEI</strong>：International Mobile Equipment Identity，国际移动设备识别码，即通常所说的手机序列号、手机“串号”。</p>
+<ul>
+<li><p>在移动电话网络中识别每一部独立的手机等移动通信设备，相当于移动电话的身份证，该号全世界唯一；</p>
+</li>
+<li><p>序列号共有15~17位数字，前8位（TAC）是型号核准号码（早期为6位），是区分手机品牌和型号的编码。接着2位（FAC）是最后装配号（仅在早期机型中存在），代表最终装配地代码。后6位（SNR）是串号，代表生产顺序号；</p>
+</li>
+<li><p>在手机拨号键盘中输入“#06#”可查询 IMEI</p>
+<p>（引申：<a href="#2">2. 为什么双卡手机有两个 IMEI号？</a>）</p>
+</li>
+</ul>
+<br>
+
+<h1 id="J"><a href="#J" class="headerlink" title="J"></a>J</h1><br>
+
+<h1 id="K"><a href="#K" class="headerlink" title="K"></a>K</h1><h2 id="KA"><a href="#KA" class="headerlink" title="KA"></a>KA</h2><p>&emsp;&emsp;<strong>KA</strong>：KeyAccount，关键客户、重点客户。（引申：<a href="#1">1. KA 为什么是 Account</a>）</p>
+<br>
+
+<h1 id="L"><a href="#L" class="headerlink" title="L"></a>L</h1><br>
+
+<h1 id="M"><a href="#M" class="headerlink" title="M"></a>M</h1><h2 id="MAC-地址"><a href="#MAC-地址" class="headerlink" title="MAC 地址"></a><span id="MAC地址">MAC 地址</span></h2><p>&emsp;&emsp;<strong>MAC 地址</strong>：Media Access Control Address，也叫物理地址、硬件地址，MAC 地址用于在网络中唯一标示一个网卡，一台设备若有一或多个网卡，则每个网卡都需要并会有一个唯一的MAC地址。</p>
+<h2 id="MAU"><a href="#MAU" class="headerlink" title="MAU"></a><span id="MAU">MAU</span></h2><p>&emsp;&emsp;<strong>MAU</strong>：Monthly Active User，月活跃用户数量。（引申：<a href="#DAU">DAU</a>）</p>
+<br>
+
+<h1 id="N"><a href="#N" class="headerlink" title="N"></a>N</h1><br>
+
+<h1 id="O"><a href="#O" class="headerlink" title="O"></a>O</h1><br>
+
+<h1 id="P"><a href="#P" class="headerlink" title="P"></a>P</h1><h2 id="POI"><a href="#POI" class="headerlink" title="POI"></a><span id="POI">POI</span></h2><p>&emsp;&emsp;<strong>POI</strong>：Point of Interest，兴趣点。在地理信息系统中，一个POI可以是一栋房子、一个商铺、一个邮筒、一个公交站等。（引申：<a href="#AOI">AOI</a>）</p>
+<br>
+
+<h1 id="Q"><a href="#Q" class="headerlink" title="Q"></a>Q</h1><h2 id="QA"><a href="#QA" class="headerlink" title="QA"></a><span id="QA">QA</span></h2><p>&emsp;&emsp;<strong>QA</strong>：Quality Assurance，质量保证。（引申：<a href="#SDET">SDET</a>）</p>
+<br>
+
+<h1 id="R"><a href="#R" class="headerlink" title="R"></a>R</h1><br>
+
+<h1 id="S"><a href="#S" class="headerlink" title="S"></a>S</h1><h2 id="SaaS"><a href="#SaaS" class="headerlink" title="SaaS"></a><span id="SaaS">SaaS</span></h2><p>&emsp;&emsp;<strong>SaaS</strong>：Software-as-a-Service，软件即服务，即通过网络提供软件服务。</p>
+<h2 id="SDET"><a href="#SDET" class="headerlink" title="SDET"></a><span id="SDET">SDET</span></h2><p>&emsp;&emsp;<strong>SDET</strong>：Software Development Engineer in Test，测试工程师，开发和测试中间。（引申：<a href="#QA">QA</a>）</p>
+<br>
+
+<h1 id="T"><a href="#T" class="headerlink" title="T"></a>T</h1><br>
+
+<h1 id="U"><a href="#U" class="headerlink" title="U"></a>U</h1><h2 id="UDID"><a href="#UDID" class="headerlink" title="UDID"></a><span id="UDID">UDID</span></h2><p>&emsp;&emsp;<strong>UDID</strong>：Unique Device Identifier，唯一设备识别符，和设备硬件有关，和手机绑定。移动广告商和游戏网络运营商往往需要通过 UDID 用来识别玩家用户，并对用户活动进行跟踪。在 iOS 应用早期，UDID 被第三方应用开发者和网络广告商用来收集用户数据，可以用来关联地址、记录应用使用习惯等以便推送精准广告。不少用户对此表示苹果侵犯消费者隐私，因此在后期苹果反对开发人员使用 UDID。在 iOS5 之后逐渐取消使用。（引申：<a href="#IDFA">IDFA</a>）</p>
+<h2 id="UUID"><a href="#UUID" class="headerlink" title="UUID"></a><span id="UUID">UUID</span></h2><p>&emsp;&emsp;<strong>UUID</strong>：Universally Unique Identifier，通用唯一识别码。在应用程序使用生命期间，这个 UUID 保持不变。但如果用户重新安装，那么这个 UUID 就会发生变化。</p>
+<br>
+
+<h1 id="V"><a href="#V" class="headerlink" title="V"></a>V</h1><br>
+
+<h1 id="W"><a href="#W" class="headerlink" title="W"></a>W</h1><br>
+
+<h1 id="X"><a href="#X" class="headerlink" title="X"></a>X</h1><h2 id="消费电子产品"><a href="#消费电子产品" class="headerlink" title="消费电子产品"></a><span id="消费电子产品">消费电子产品</span></h2><p>&emsp;&emsp;Consumer Electronics，我国消费类电子产品是指用于个人和家庭与广播、电视有关的音频和视频产品，如：电视机、录像机、收音机、音箱。（引申：<a href="#3C">3C</a>）</p>
+<br>
+
+<h1 id="Y"><a href="#Y" class="headerlink" title="Y"></a>Y</h1><br>
+
+<h1 id="Z"><a href="#Z" class="headerlink" title="Z"></a>Z</h1><br>
+
+<h1 id="Appendix"><a href="#Appendix" class="headerlink" title="Appendix"></a>Appendix</h1><h3 id="1"><a href="#1" class="headerlink" title="1."></a><span id="1">1</span>.</h3><blockquote>
+<p><strong>为什么 KA 中表示“客户”的是“Account”？为什么不用“customer”？</strong></p>
+<p>&emsp;&emsp;customer 讲究的是个人的一面，account讲究的是公司、帐户管理的一面。譬如广告公司把客户作为一个一个account来管理，所以客户代表叫 account executive, 不叫 customer executive。客户服务通常都叫 customer service，只有广告公司叫 account service,侧重点不同。</p>
+<p>&emsp;&emsp;一般 to B 的公司都会称呼客户公司为account。<a href="#KA">返回 KA</a></p>
+</blockquote>
+<h3 id="2"><a href="#2" class="headerlink" title="2"></a><span id="2">2</span></h3><blockquote>
+<p><strong>为什么双卡双待手机有两个 IMEI 号？有什么用？</strong></p>
+<p>&emsp;&emsp;有两个 IMEI 码是因为双卡双待手机的两个卡槽都能够插 SIM 卡，在 GSM 蜂窝通信网络中被看作是集成在一起的两个设备，相当于两个手机装在一个手机外壳中，而每个通信芯片都需要有一个 IMEI 标识，所以会有两个 IMEI 码。<a href="#IMEI">返回 IMEI</a></p>
+</blockquote>
+<p>MAC/OAID/OTT</p>
+<p>MEID 是什么？</p>
+
+      
+       <hr><span style="font-style: italic;color: gray;"> 转载请注明来源 </span>
+    </div>
+</article>
+
+
+
+
+
+
+
+    
+
+
+
+
+    </div>
+    <div class="copyright">
+        <p class="footer-entry">
+    ©2016-2020 Vera
+</p>
+<p class="footer-entry">Built with <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/yelog/hexo-theme-3-hexo" target="_blank">3-hexo</a> theme</p>
+
+    </div>
+    <div class="full-toc">
+        <button class="full" data-title="切换全屏 快捷键 s"><span class="min "></span></button>
+<a class="" id="rocket" ></a>
+
+    </div>
+</div>
+
+</body>
+<script src="/js/jquery.pjax.js?v=1.1.0" ></script>
+
+<script src="/js/script.js?v=1.1.0" ></script>
+<script>
+    var img_resize = 'default';
+    function initArticle() {
+        /*渲染对应的表格样式*/
+        
+            $("#post .pjax table").addClass("green_title");
+        
+
+        /*渲染打赏样式*/
+        
+
+        /*高亮代码块行号*/
+        
+
+        /*访问数量*/
+        
+
+        /*代码高亮，行号对齐*/
+        $('.pre-numbering').css('line-height',$('.has-numbering').css('line-height'));
+
+        
+        
+    }
+
+    /*打赏页面隐藏与展示*/
+    
+
+</script>
+
+<!--加入行号的高亮代码块样式-->
+
+<!--自定义样式设置-->
+<style>
+    
+    
+    .nav {
+        width: 542px;
+    }
+    .nav.fullscreen {
+        margin-left: -542px;
+    }
+    .nav-left {
+        width: 120px;
+    }
+    
+    
+    @media screen and (max-width: 1468px) {
+        .nav {
+            width: 492px;
+        }
+        .nav.fullscreen {
+            margin-left: -492px;
+        }
+        .nav-left {
+            width: 100px;
+        }
+    }
+    
+    
+    @media screen and (max-width: 1024px) {
+        .nav {
+            width: 492px;
+            margin-left: -492px
+        }
+        .nav.fullscreen {
+            margin-left: 0;
+        }
+    }
+    
+    @media screen and (max-width: 426px) {
+        .nav {
+            width: 100%;
+        }
+        .nav-left {
+            width: 100%;
+        }
+    }
+    
+    
+    .nav-right .title-list nav a .post-title, .nav-right .title-list #local-search-result a .post-title {
+        color: #383636;
+    }
+    
+    
+    .nav-right .title-list nav a .post-date, .nav-right .title-list #local-search-result a .post-date {
+        color: #5e5e5f;
+    }
+    
+    
+    .nav-right nav a.hover, #local-search-result a.hover{
+        background-color: #e2e0e0;
+    }
+    
+    
+
+    /*列表样式*/
+    
+
+    /* 背景图样式 */
+    
+    
+
+
+    /*引用块样式*/
+    
+
+    /*文章列表背景图*/
+    
+
+    
+</style>
+
+
+
+
+
+
+
+</html>

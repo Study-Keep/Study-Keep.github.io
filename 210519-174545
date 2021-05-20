@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>git&amp;hexo常见错误及解决方法 | Hexo</title>
-  <meta name="keywords" content=" git , hexo ">
-  <meta name="description" content="git&amp;hexo常见错误及解决方法 | Hexo">
+  <title>excel使用小问题及解决方法 | Hexo</title>
+  <meta name="keywords" content=" excel ">
+  <meta name="description" content="excel使用小问题及解决方法 | Hexo">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="1. 启用填充柄和单元格拖放 功能启用位置：文件-&gt;选项-&gt;高级 功能效果介绍： 选择单个单元格时，拖放是以复制单元格内容和格式的形式进行单元格填充； 选择一列多行时，向下或向上拖放会以选中的单元格内容是否有可循规律的序号进行自动填充，效果参考实际操作效果">
 <meta property="og:type" content="article">
@@ -388,9 +388,9 @@
 </aside>
 <div id="post">
     <div class="pjax">
-        <article id="post-git&amp;hexo常见错误及解决方法" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-excel使用小问题及解决方法" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">git&amp;hexo常见错误及解决方法</h1>
+        <h1 class="article-title">excel使用小问题及解决方法</h1>
     
     <div class="article-meta">
         
@@ -408,16 +408,14 @@
         <span class="tag">
             <i class="iconfont icon-tag"></i>
             
-            <a class="color4">git</a>
-            
-            <a class="color5">hexo</a>
+            <a class="color1">excel</a>
             
         </span>
         
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2021-05-20 10:58:01'>2021-05-18 16:03</time>
+            发布时间 : <time class="date" title='最后更新: 2021-05-20 11:08:10'>2021-05-19 17:45</time>
         
     </div>
     <div class="article-meta">
@@ -428,7 +426,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#errno"><span class="toc-text">errno</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#10054"><span class="toc-text">10054</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#git"><span class="toc-text">git</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists"><span class="toc-text">Please make sure you have the correct access rights and the repository exists</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#hexo"><span class="toc-text">hexo</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#hexo-s"><span class="toc-text">hexo s</span></a></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E9%97%AE%E9%A2%981%EF%BC%9A%E5%8F%8C%E5%87%BB%E5%8D%95%E5%85%83%E6%A0%BC%E5%AF%BC%E8%87%B4%E8%A1%A8%E5%86%85%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BD%AC"><span class="toc-text">问题1：双击单元格导致表内自动跳转</span></a></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -444,66 +442,10 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h1 id="errno"><a href="#errno" class="headerlink" title="errno"></a>errno</h1><h2 id="10054"><a href="#10054" class="headerlink" title="10054"></a>10054</h2><ul>
-<li><p><strong>报错位置</strong> ：<code>hexo init</code>、<code>git push</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">OpenSSL SSL_read: Connection was reset, errno 10054
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：</p>
-<ul>
-<li><p>网络问题，多次尝试；</p>
-</li>
-<li><p>解决 ssl 验证，步骤如下：</p>
-<ol>
-<li><p>打开 “Git Bash Here”；</p>
-</li>
-<li><p>输入如下命令：</p>
-<pre><code class="bash">git config --global https.sslVerify &quot;false&quot;
-</code></pre>
-</li>
-<li><p>重新进行<code>hexo init</code>操作</p>
-</li>
-</ol>
-</li>
+        <h1 id="问题1：双击单元格导致表内自动跳转"><a href="#问题1：双击单元格导致表内自动跳转" class="headerlink" title="问题1：双击单元格导致表内自动跳转"></a>问题1：双击单元格导致表内自动跳转</h1><ul>
+<li><strong>问题详述</strong>：双击单元格的时候，会自动跳转到表格的上方或者下方</li>
+<li><strong>解决方法</strong>：去掉选项里<strong>“启用填充柄和单元格拖放”</strong>的勾选。位置：文件-&gt;选项-&gt;高级-&gt;启用填充柄和单元格拖放</li>
 </ul>
-</li>
-</ul>
-<br>
-
-<h1 id="git"><a href="#git" class="headerlink" title="git"></a>git</h1><h2 id="Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists"><a href="#Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists" class="headerlink" title="Please make sure you have the correct access rights and the repository exists"></a>Please make sure you have the correct access rights and the repository exists</h2><ul>
-<li><p><strong>报错位置</strong>：<code>hexo d</code>、<code>git push</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">Please make sure you have the correct access rights and the repository exists
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：重配 SSH 公匙</p>
-</li>
-<li><p>注意：SSH 是添加到 github 个人下的设置里的，不是 repository 下的设置</p>
-</li>
-</ul>
-<br>
-
-<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><h2 id="hexo-s"><a href="#hexo-s" class="headerlink" title="hexo s"></a>hexo s</h2><ul>
-<li><p><strong>报错位置</strong>：<code>hexo s</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">Failed to load resource: the server responded with a status of 404(Not Found)
-
-(on the page)Cannot GET /
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：hexo 下 _posts 文件夹里如果没有 .md 文件（a post）就会出现这个问题，在文件夹中添加一个 post 就可以解决</p>
-</li>
-</ul>
-<br>
-
-<hr>
-<blockquote>
-<p>很久没有倒腾博客了，这次在另一台电脑上部署就出了这么多问题，后悔第一次搭建博客的时候没有把碰到的问题记录下来，花了好多功夫才成功部署，补上补上！</p>
-</blockquote>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源 </span>

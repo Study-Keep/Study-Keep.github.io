@@ -6,16 +6,17 @@
   <meta name="keywords" content="">
   <meta name="description" content="中英文缩写 | Hexo">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="#3C&amp;emsp;&amp;emsp;3C：3C 数码的简称，3C 指的是 Computer、Communication、Consumer Electronics，即电脑、通讯、消费电子产品。（引申：消费电子产品）   AADX&amp;emsp;&amp;emsp;ADX：AD Exchange，广告交易平台。 AOI&amp;emsp;&amp;emsp;AOI：Area of Interest，兴趣面、信息面，指的是地图数据中的区">
+<meta name="description" content="1. 打对勾&#x2F;对号- [ ] 没有勾选 - [x] 勾选  效果如下：    没有勾选    勾选   注意：没有勾选的方框内需有一个空格 2. 空格的区别 &amp;nbsp：No-Break Space，不换行空格。它是按下 space 键产生的空格（按下多个空格只展示为一个空格），该空格受字体的印象较大 &amp;emsp：Em Space，全角空格。em 是字体排印学的计量单位，该空格占据">
 <meta property="og:type" content="article">
-<meta property="og:title" content="中英文缩写">
-<meta property="og:url" content="https://study-keep.github.io/210520-150930">
+<meta property="og:title" content="Markdown使用小技巧">
+<meta property="og:url" content="https://study-keep.github.io/210524-111426">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="#3C&amp;emsp;&amp;emsp;3C：3C 数码的简称，3C 指的是 Computer、Communication、Consumer Electronics，即电脑、通讯、消费电子产品。（引申：消费电子产品）   AADX&amp;emsp;&amp;emsp;ADX：AD Exchange，广告交易平台。 AOI&amp;emsp;&amp;emsp;AOI：Area of Interest，兴趣面、信息面，指的是地图数据中的区">
+<meta property="og:description" content="1. 打对勾&#x2F;对号- [ ] 没有勾选 - [x] 勾选  效果如下：    没有勾选    勾选   注意：没有勾选的方框内需有一个空格 2. 空格的区别 &amp;nbsp：No-Break Space，不换行空格。它是按下 space 键产生的空格（按下多个空格只展示为一个空格），该空格受字体的印象较大 &amp;emsp：Em Space，全角空格。em 是字体排印学的计量单位，该空格占据">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2021-05-20T07:09:30.000Z">
-<meta property="article:modified_time" content="2021-05-20T08:07:07.698Z">
+<meta property="article:published_time" content="2021-05-24T03:14:26.000Z">
+<meta property="article:modified_time" content="2021-05-24T06:54:36.023Z">
 <meta property="article:author" content="Vera">
+<meta property="article:tag" content="markdown">
 <meta name="twitter:card" content="summary">
 
 
@@ -242,7 +243,7 @@
     <li>
         <div class="all active" data-rel="全部文章">全部文章
             
-                <small>(4)</small>
+                <small>(6)</small>
             
         </div>
     </li>
@@ -267,7 +268,7 @@
                     <div data-rel="小技巧">
                         
                         小技巧
-                        <small>(3)</small>
+                        <small>(5)</small>
                         
                     </div>
                     
@@ -288,8 +289,8 @@
         
     </div>
 </div>
-<input type="hidden" id="yelog_site_posts_number" value="4">
-<input type="hidden" id="yelog_site_word_count" value="1.8k">
+<input type="hidden" id="yelog_site_posts_number" value="6">
+<input type="hidden" id="yelog_site_word_count" value="2.2k">
 <div style="display: none">
     <span id="busuanzi_value_site_uv"></span>
     <span id="busuanzi_value_site_pv"></span>
@@ -346,12 +347,32 @@
                 <i class="iconfont icon-tag"></i><a>hexo</a>
             </li>
         
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>markdown</a>
+            </li>
+        
     </div>
 
 </div>
 
     
     <nav id="title-list-nav">
+        
+        <a  class="全部文章 小技巧 "
+           href="/210524-111426"
+           data-tag="markdown"
+           data-author="" >
+            <span class="post-title" title="Markdown使用小技巧">Markdown使用小技巧</span>
+            <span class="post-date" title="2021-05-24 11:14:26">2021/05/24</span>
+        </a>
+        
+        <a  class="全部文章 小技巧 "
+           href="/210524-105841"
+           data-tag="git,hexo"
+           data-author="" >
+            <span class="post-title" title="git&amp;hexo常用命令">git&amp;hexo常用命令</span>
+            <span class="post-date" title="2021-05-24 10:58:41">2021/05/24</span>
+        </a>
         
         <a  class="全部文章 笔记 "
            href="/210520-150930"
@@ -423,7 +444,7 @@
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2021-05-20 16:07:07'>2021-05-20 15:09</time>
+            发布时间 : <time class="date" title='最后更新: 2021-05-20 18:02:54'>2021-05-20 15:09</time>
         
     </div>
     <div class="article-meta">
@@ -436,7 +457,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">#</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#3C"><span class="toc-text">3C</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#A"><span class="toc-text">A</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#ADX"><span class="toc-text">ADX</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AOI"><span class="toc-text">AOI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AQI"><span class="toc-text">AQI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#B"><span class="toc-text">B</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#C"><span class="toc-text">C</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#CPM"><span class="toc-text">CPM</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#D"><span class="toc-text">D</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#DAU"><span class="toc-text">DAU</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DMP"><span class="toc-text">DMP</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DSP"><span class="toc-text">DSP</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#E"><span class="toc-text">E</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#F"><span class="toc-text">F</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#G"><span class="toc-text">G</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#H"><span class="toc-text">H</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#I"><span class="toc-text">I</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#IAQI"><span class="toc-text">IAQI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IDFA"><span class="toc-text">IDFA</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IMEI"><span class="toc-text">IMEI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#J"><span class="toc-text">J</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#K"><span class="toc-text">K</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#KA"><span class="toc-text">KA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#L"><span class="toc-text">L</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#M"><span class="toc-text">M</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#MAC-%E5%9C%B0%E5%9D%80"><span class="toc-text">MAC 地址</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#MAU"><span class="toc-text">MAU</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#N"><span class="toc-text">N</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#O"><span class="toc-text">O</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#P"><span class="toc-text">P</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#POI"><span class="toc-text">POI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Q"><span class="toc-text">Q</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#QA"><span class="toc-text">QA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#R"><span class="toc-text">R</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#S"><span class="toc-text">S</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#SaaS"><span class="toc-text">SaaS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#SDET"><span class="toc-text">SDET</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#T"><span class="toc-text">T</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#U"><span class="toc-text">U</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#UDID"><span class="toc-text">UDID</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#UUID"><span class="toc-text">UUID</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#V"><span class="toc-text">V</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#W"><span class="toc-text">W</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#X"><span class="toc-text">X</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81"><span class="toc-text">消费电子产品</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Y"><span class="toc-text">Y</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Z"><span class="toc-text">Z</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Appendix"><span class="toc-text">Appendix</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1"><span class="toc-text">1.</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2"><span class="toc-text">2</span></a></li></ol></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">#</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#3C"><span class="toc-text">3C</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#A"><span class="toc-text">A</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#ADX"><span class="toc-text">ADX</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AOI"><span class="toc-text">AOI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AQI"><span class="toc-text">AQI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#B"><span class="toc-text">B</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#C"><span class="toc-text">C</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#CPM"><span class="toc-text">CPM</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#D"><span class="toc-text">D</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#DAU"><span class="toc-text">DAU</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DMP"><span class="toc-text">DMP</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DSP"><span class="toc-text">DSP</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#E"><span class="toc-text">E</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#F"><span class="toc-text">F</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#G"><span class="toc-text">G</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#GSM"><span class="toc-text">GSM</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#H"><span class="toc-text">H</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#I"><span class="toc-text">I</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#IAQI"><span class="toc-text">IAQI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IDFA"><span class="toc-text">IDFA</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IMEI"><span class="toc-text">IMEI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#J"><span class="toc-text">J</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#K"><span class="toc-text">K</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#KA"><span class="toc-text">KA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#L"><span class="toc-text">L</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#M"><span class="toc-text">M</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#MAC-%E5%9C%B0%E5%9D%80"><span class="toc-text">MAC 地址</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#MAU"><span class="toc-text">MAU</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#N"><span class="toc-text">N</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#O"><span class="toc-text">O</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#P"><span class="toc-text">P</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#POI"><span class="toc-text">POI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Q"><span class="toc-text">Q</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#QA"><span class="toc-text">QA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#R"><span class="toc-text">R</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#S"><span class="toc-text">S</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#SaaS"><span class="toc-text">SaaS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#SDET"><span class="toc-text">SDET</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#T"><span class="toc-text">T</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#U"><span class="toc-text">U</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#UDID"><span class="toc-text">UDID</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#UUID"><span class="toc-text">UUID</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#V"><span class="toc-text">V</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#W"><span class="toc-text">W</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#X"><span class="toc-text">X</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81"><span class="toc-text">消费电子产品</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Y"><span class="toc-text">Y</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Z"><span class="toc-text">Z</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Appendix"><span class="toc-text">Appendix</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1"><span class="toc-text">1.</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2"><span class="toc-text">2.</span></a></li></ol></li></ol></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -474,7 +495,8 @@
 
 <h1 id="F"><a href="#F" class="headerlink" title="F"></a>F</h1><br>
 
-<h1 id="G"><a href="#G" class="headerlink" title="G"></a>G</h1><br>
+<h1 id="G"><a href="#G" class="headerlink" title="G"></a>G</h1><h2 id="GSM"><a href="#GSM" class="headerlink" title="GSM"></a><span id="GSM">GSM</span></h2><p>&emsp;&emsp;<strong>GSM</strong>：Global System for Mobile Communication，全球移动通信系统，是由欧洲电信标准组织 ETSI 制订的一个数字移动通信标准。</p>
+<br>
 
 <h1 id="H"><a href="#H" class="headerlink" title="H"></a>H</h1><br>
 
@@ -541,12 +563,11 @@
 <p>&emsp;&emsp;customer 讲究的是个人的一面，account讲究的是公司、帐户管理的一面。譬如广告公司把客户作为一个一个account来管理，所以客户代表叫 account executive, 不叫 customer executive。客户服务通常都叫 customer service，只有广告公司叫 account service,侧重点不同。</p>
 <p>&emsp;&emsp;一般 to B 的公司都会称呼客户公司为account。<a href="#KA">返回 KA</a></p>
 </blockquote>
-<h3 id="2"><a href="#2" class="headerlink" title="2"></a><span id="2">2</span></h3><blockquote>
+<h3 id="2"><a href="#2" class="headerlink" title="2."></a><span id="2">2</span>.</h3><blockquote>
 <p><strong>为什么双卡双待手机有两个 IMEI 号？有什么用？</strong></p>
-<p>&emsp;&emsp;有两个 IMEI 码是因为双卡双待手机的两个卡槽都能够插 SIM 卡，在 GSM 蜂窝通信网络中被看作是集成在一起的两个设备，相当于两个手机装在一个手机外壳中，而每个通信芯片都需要有一个 IMEI 标识，所以会有两个 IMEI 码。<a href="#IMEI">返回 IMEI</a></p>
+<p>&emsp;&emsp;有两个 IMEI 码是因为双卡双待手机的两个卡槽都能够插 SIM 卡，在 <a href="#GSM">GSM</a> 蜂窝通信网络中被看作是集成在一起的两个设备，相当于两个手机装在一个手机外壳中，而每个通信芯片都需要有一个 IMEI 标识，所以会有两个 IMEI 码。<a href="#IMEI">返回 IMEI</a></p>
 </blockquote>
 <p>MAC/OAID/OTT</p>
-<p>MEID 是什么？</p>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源 </span>

@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>git&amp;hexo常见错误及解决方法 | Hexo</title>
-  <meta name="keywords" content=" git , hexo ">
-  <meta name="description" content="git&amp;hexo常见错误及解决方法 | Hexo">
+  <title>记录-手工学习 | Hexo</title>
+  <meta name="keywords" content=" handmade ">
+  <meta name="description" content="记录-手工学习 | Hexo">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="X虚怀若谷（2021.6.9）&amp;emsp;&amp;emsp;虚怀若谷：虚：谦虚；谷，山谷。形容为人谦虚，心胸就像山谷一样广阔，能接纳他人的意见。 &amp;emsp;&amp;emsp;(在一篇讲某明星低情商表现的公众号推文里看到的，感觉可以将这个成语背后的意境作为修养的目标之一）">
 <meta property="og:type" content="article">
@@ -567,9 +567,9 @@
 </aside>
 <div id="post">
     <div class="pjax">
-        <article id="post-git&amp;hexo常见错误及解决方法" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-记录-手工学习" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">git&amp;hexo常见错误及解决方法</h1>
+        <h1 class="article-title">记录-手工学习</h1>
     
     <div class="article-meta">
         
@@ -579,9 +579,9 @@
             <i class="iconfont icon-category"></i>
             
             
-            <a  data-rel="小技巧">小技巧</a> > 
+            <a  data-rel="记录">记录</a> > 
             
-            <a  data-rel="小技巧&lt;---&gt;配置">配置</a>
+            <a  data-rel="记录&lt;---&gt;手工">手工</a>
             
         </span>
         
@@ -589,21 +589,19 @@
         <span class="tag">
             <i class="iconfont icon-tag"></i>
             
-            <a class="color4">git</a>
-            
-            <a class="color5">hexo</a>
+            <a class="color4">handmade</a>
             
         </span>
         
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2021-05-28 14:50:44'>2021-05-18 16:03</time>
+            发布时间 : <time class="date" title='最后更新: 2021-06-09 14:59:00'>2021-05-31 12:06</time>
         
     </div>
     <div class="article-meta">
         
-        <span>字数:279</span>
+        <span>字数:284</span>
         
         
         
@@ -611,7 +609,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#errno"><span class="toc-text">errno</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#10054"><span class="toc-text">10054</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#git"><span class="toc-text">git</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists"><span class="toc-text">Please make sure you have the correct access rights and the repository exists</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#hexo"><span class="toc-text">hexo</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#hexo-s"><span class="toc-text">hexo s</span></a></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#2020-11-29"><span class="toc-text">2020.11.29</span></a></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -627,65 +625,46 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h1 id="errno"><a href="#errno" class="headerlink" title="errno"></a>errno</h1><h2 id="10054"><a href="#10054" class="headerlink" title="10054"></a>10054</h2><ul>
-<li><p><strong>报错位置</strong> ：<code>hexo init</code>、<code>git push</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">OpenSSL SSL_read: Connection was reset, errno 10054
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：</p>
-<ul>
-<li><p>网络问题，多次尝试；</p>
-</li>
-<li><p>解决 ssl 验证，步骤如下：</p>
-<ol>
-<li><p>打开 “Git Bash Here”；</p>
-</li>
-<li><p>输入如下命令：</p>
-<pre><code class="bash">git config --global https.sslVerify &quot;false&quot;
-</code></pre>
-</li>
-<li><p>重新进行<code>hexo init</code>操作</p>
-</li>
-</ol>
-</li>
-</ul>
-</li>
-</ul>
-<br>
+        <h1 id="2020-11-29"><a href="#2020-11-29" class="headerlink" title="2020.11.29"></a>2020.11.29</h1><p>&emsp;&emsp;5月底第一次买钩线玩偶的材料（没做），到了学校买了另外一个材料包，因为12月1日是和男朋友的纪念日，想送点不一样的但时间并不是很充裕（拖延的锅），所以买了个小且看起来简单的来做，</p>
+<figure class="half">
+<img src="https://i.loli.net/2021/05/31/fSog3btZkWx1pTF.jpg" width="30%" title="小蓝鲸鱼！"></img>
+<img src="https://i.loli.net/2021/05/31/PSRbLxF2VwJ97pv.jpg" width="30%" title="嘿嘿可爱吧~"></img>
 
-<h1 id="git"><a href="#git" class="headerlink" title="git"></a>git</h1><h2 id="Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists"><a href="#Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists" class="headerlink" title="Please make sure you have the correct access rights and the repository exists"></a>Please make sure you have the correct access rights and the repository exists</h2><ul>
-<li><p><strong>报错位置</strong>：<code>hexo d</code>、<code>git push</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">Please make sure you have the correct access rights and the repository exists
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：重配 SSH 公匙</p>
-</li>
-<li><p>注意：SSH 是添加到 <strong>github 个人</strong>下的设置里的，不是 repository 下的设置</p>
-</li>
-</ul>
-<br>
+</figure>
 
-<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><h2 id="hexo-s"><a href="#hexo-s" class="headerlink" title="hexo s"></a>hexo s</h2><ul>
-<li><p><strong>报错位置</strong>：<code>hexo s</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">Failed to load resource: the server responded with a status of 404(Not Found)
+<div style="text-align: center">
+    <img style="display: inline-block;" src="https://i.loli.net/2021/05/31/fSog3btZkWx1pTF.jpg" width="30%" title="小蓝鲸鱼！"></img>
+    <img style="display: inline-block;"
+         src="https://i.loli.net/2021/05/31/PSRbLxF2VwJ97pv.jpg" width="30%" title="嘿嘿可爱吧~"></img>
+</div>
 
-(on the page)Cannot GET /
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：hexo 下 _posts 文件夹里如果没有 .md 文件（a post）就会出现这个问题，在文件夹中添加一个 post 就可以解决</p>
-</li>
-</ul>
-<br>
 
-<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <blockquote>
-<p>很久没有倒腾博客了，这次在另一台电脑上部署就出了这么多问题，后悔第一次搭建博客的时候没有把碰到的问题记录下来，花了好多功夫才成功部署，补上补上！</p>
+<p>写在最后：</p>
+<p>&emsp;&emsp;学做手工的小玩意儿好像从很早就开始了，从高中（还是初中）开始接触的编织手链，到20年5月接触的钩线玩偶，再到21年5月开始学习的丝网花，每过一段时间就有想要尝试的新东西，虽然一般感兴趣一两个月过后热情消散了许多，但也不能完全算是三分钟热度吧，应该算三分钟热度后还有点温热，毕竟送礼物的时候还是会复习一下，兴趣也会被提起来一些。学会一种了之后再做相同或类似的就得心应手多了，也做了一些送给朋友，希望继续坚持做并且学习手工吧~（2021.5.31）</p>
 </blockquote>
 
       

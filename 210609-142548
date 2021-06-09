@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>git&amp;hexo常见错误及解决方法 | Hexo</title>
-  <meta name="keywords" content=" git , hexo ">
-  <meta name="description" content="git&amp;hexo常见错误及解决方法 | Hexo">
+  <title>成语小记 | Hexo</title>
+  <meta name="keywords" content=" 日常 , 写作 ">
+  <meta name="description" content="成语小记 | Hexo">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="X虚怀若谷（2021.6.9）&amp;emsp;&amp;emsp;虚怀若谷：虚：谦虚；谷，山谷。形容为人谦虚，心胸就像山谷一样广阔，能接纳他人的意见。 &amp;emsp;&amp;emsp;(在一篇讲某明星低情商表现的公众号推文里看到的，感觉可以将这个成语背后的意境作为修养的目标之一）">
 <meta property="og:type" content="article">
@@ -567,9 +567,9 @@
 </aside>
 <div id="post">
     <div class="pjax">
-        <article id="post-git&amp;hexo常见错误及解决方法" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-成语小记" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">git&amp;hexo常见错误及解决方法</h1>
+        <h1 class="article-title">成语小记</h1>
     
     <div class="article-meta">
         
@@ -579,9 +579,9 @@
             <i class="iconfont icon-category"></i>
             
             
-            <a  data-rel="小技巧">小技巧</a> > 
+            <a  data-rel="笔记">笔记</a> > 
             
-            <a  data-rel="小技巧&lt;---&gt;配置">配置</a>
+            <a  data-rel="笔记&lt;---&gt;日常/写作">日常/写作</a>
             
         </span>
         
@@ -589,21 +589,21 @@
         <span class="tag">
             <i class="iconfont icon-tag"></i>
             
-            <a class="color4">git</a>
+            <a class="color3">日常</a>
             
-            <a class="color5">hexo</a>
+            <a class="color3">写作</a>
             
         </span>
         
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2021-05-28 14:50:44'>2021-05-18 16:03</time>
+            发布时间 : <time class="date" title='最后更新: 2021-06-09 14:59:59'>2021-06-09 14:25</time>
         
     </div>
     <div class="article-meta">
         
-        <span>字数:279</span>
+        <span>字数:91</span>
         
         
         
@@ -611,7 +611,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#errno"><span class="toc-text">errno</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#10054"><span class="toc-text">10054</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#git"><span class="toc-text">git</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists"><span class="toc-text">Please make sure you have the correct access rights and the repository exists</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#hexo"><span class="toc-text">hexo</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#hexo-s"><span class="toc-text">hexo s</span></a></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#X"><span class="toc-text">X</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%99%9A%E6%80%80%E8%8B%A5%E8%B0%B7%EF%BC%882021-6-9%EF%BC%89"><span class="toc-text">虚怀若谷（2021.6.9）</span></a></li></ol></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -627,66 +627,8 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h1 id="errno"><a href="#errno" class="headerlink" title="errno"></a>errno</h1><h2 id="10054"><a href="#10054" class="headerlink" title="10054"></a>10054</h2><ul>
-<li><p><strong>报错位置</strong> ：<code>hexo init</code>、<code>git push</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">OpenSSL SSL_read: Connection was reset, errno 10054
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：</p>
-<ul>
-<li><p>网络问题，多次尝试；</p>
-</li>
-<li><p>解决 ssl 验证，步骤如下：</p>
-<ol>
-<li><p>打开 “Git Bash Here”；</p>
-</li>
-<li><p>输入如下命令：</p>
-<pre><code class="bash">git config --global https.sslVerify &quot;false&quot;
-</code></pre>
-</li>
-<li><p>重新进行<code>hexo init</code>操作</p>
-</li>
-</ol>
-</li>
-</ul>
-</li>
-</ul>
-<br>
-
-<h1 id="git"><a href="#git" class="headerlink" title="git"></a>git</h1><h2 id="Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists"><a href="#Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists" class="headerlink" title="Please make sure you have the correct access rights and the repository exists"></a>Please make sure you have the correct access rights and the repository exists</h2><ul>
-<li><p><strong>报错位置</strong>：<code>hexo d</code>、<code>git push</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">Please make sure you have the correct access rights and the repository exists
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：重配 SSH 公匙</p>
-</li>
-<li><p>注意：SSH 是添加到 <strong>github 个人</strong>下的设置里的，不是 repository 下的设置</p>
-</li>
-</ul>
-<br>
-
-<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><h2 id="hexo-s"><a href="#hexo-s" class="headerlink" title="hexo s"></a>hexo s</h2><ul>
-<li><p><strong>报错位置</strong>：<code>hexo s</code></p>
-</li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">Failed to load resource: the server responded with a status of 404(Not Found)
-
-(on the page)Cannot GET /
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：hexo 下 _posts 文件夹里如果没有 .md 文件（a post）就会出现这个问题，在文件夹中添加一个 post 就可以解决</p>
-</li>
-</ul>
-<br>
-
-<hr>
-<blockquote>
-<p>很久没有倒腾博客了，这次在另一台电脑上部署就出了这么多问题，后悔第一次搭建博客的时候没有把碰到的问题记录下来，花了好多功夫才成功部署，补上补上！</p>
-</blockquote>
+        <h1 id="X"><a href="#X" class="headerlink" title="X"></a>X</h1><h2 id="虚怀若谷（2021-6-9）"><a href="#虚怀若谷（2021-6-9）" class="headerlink" title="虚怀若谷（2021.6.9）"></a>虚怀若谷（2021.6.9）</h2><p>&emsp;&emsp;<strong>虚怀若谷</strong>：虚：谦虚；谷，山谷。形容为人谦虚，心胸就像山谷一样广阔，能接纳他人的意见。</p>
+<p>&emsp;&emsp;(在一篇讲某明星低情商表现的公众号推文里看到的，感觉可以将这个成语背后的意境作为修养的目标之一）</p>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源 </span>

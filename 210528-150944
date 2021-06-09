@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>git&amp;hexo常见错误及解决方法 | Hexo</title>
-  <meta name="keywords" content=" git , hexo ">
-  <meta name="description" content="git&amp;hexo常见错误及解决方法 | Hexo">
+  <title>Learning English From League of Legends | Hexo</title>
+  <meta name="keywords" content=" game ">
+  <meta name="description" content="Learning English From League of Legends | Hexo">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="X虚怀若谷（2021.6.9）&amp;emsp;&amp;emsp;虚怀若谷：虚：谦虚；谷，山谷。形容为人谦虚，心胸就像山谷一样广阔，能接纳他人的意见。 &amp;emsp;&amp;emsp;(在一篇讲某明星低情商表现的公众号推文里看到的，感觉可以将这个成语背后的意境作为修养的目标之一）">
 <meta property="og:type" content="article">
@@ -567,9 +567,9 @@
 </aside>
 <div id="post">
     <div class="pjax">
-        <article id="post-git&amp;hexo常见错误及解决方法" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-Learning English From League of Legends" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">git&amp;hexo常见错误及解决方法</h1>
+        <h1 class="article-title">Learning English From League of Legends</h1>
     
     <div class="article-meta">
         
@@ -579,9 +579,9 @@
             <i class="iconfont icon-category"></i>
             
             
-            <a  data-rel="小技巧">小技巧</a> > 
+            <a  data-rel="笔记">笔记</a> > 
             
-            <a  data-rel="小技巧&lt;---&gt;配置">配置</a>
+            <a  data-rel="笔记&lt;---&gt;English">English</a>
             
         </span>
         
@@ -589,21 +589,19 @@
         <span class="tag">
             <i class="iconfont icon-tag"></i>
             
-            <a class="color4">git</a>
-            
-            <a class="color5">hexo</a>
+            <a class="color5">game</a>
             
         </span>
         
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2021-05-28 14:50:44'>2021-05-18 16:03</time>
+            发布时间 : <time class="date" title='最后更新: 2021-05-31 14:41:29'>2021-05-28 15:09</time>
         
     </div>
     <div class="article-meta">
         
-        <span>字数:279</span>
+        <span>字数:880</span>
         
         
         
@@ -611,7 +609,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#errno"><span class="toc-text">errno</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#10054"><span class="toc-text">10054</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#git"><span class="toc-text">git</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists"><span class="toc-text">Please make sure you have the correct access rights and the repository exists</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#hexo"><span class="toc-text">hexo</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#hexo-s"><span class="toc-text">hexo s</span></a></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#All-Sentences"><span class="toc-text">All Sentences</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#quadra"><span class="toc-text">quadra</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#prefix-%CB%88pri%CB%90f%C9%AAks"><span class="toc-text">prefix &#x2F;ˈpriːfɪks&#x2F;</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#quadri-%CB%88kw%C9%92dr%C9%AA"><span class="toc-text">quadri-&#x2F;ˈkwɒdrɪ&#x2F;</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#quadrangle-%CB%88kw%C9%92d%CB%8Crae%C5%8B%C9%A1%C9%99l"><span class="toc-text">quadrangle &#x2F;ˈkwɒdˌræŋɡəl&#x2F;</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#penta-%CB%88pent%C9%99"><span class="toc-text">penta-&#x2F;ˈpentə&#x2F;</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#spree-spri%CB%90"><span class="toc-text">spree &#x2F;spriː&#x2F;</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#rampage"><span class="toc-text">rampage</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#godlike"><span class="toc-text">godlike</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#dominate-%CB%88d%C9%91%CB%90m%C9%AAne%C9%AAt"><span class="toc-text">dominate*&#x2F;ˈdɑːmɪneɪt&#x2F;*</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#legendary-%CB%88led%CA%92%C9%99nd%C9%99r%C9%AA"><span class="toc-text">legendary &#x2F;ˈlɛdʒəndərɪ&#x2F;</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#slay-sle%C9%AA"><span class="toc-text">slay &#x2F;sleɪ&#x2F;</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#ally"><span class="toc-text">ally</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#execute-%CB%88eks%C9%AA%CB%8Ckju%CB%90t"><span class="toc-text">execute &#x2F;ˈɛksɪˌkjuːt&#x2F;</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#turret-%CB%88tvr%C9%AAt"><span class="toc-text">turret &#x2F;ˈtʌrɪt&#x2F;</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#inhibitor-%C9%AAn%CB%88h%C9%AAb%C9%AAt%C9%99r"><span class="toc-text">inhibitor*&#x2F;ɪnˈhɪbɪtər&#x2F;*</span></a></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -627,66 +625,170 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h1 id="errno"><a href="#errno" class="headerlink" title="errno"></a>errno</h1><h2 id="10054"><a href="#10054" class="headerlink" title="10054"></a>10054</h2><ul>
-<li><p><strong>报错位置</strong> ：<code>hexo init</code>、<code>git push</code></p>
+        <blockquote>
+<p>&emsp;&emsp;I used to play Glory Of The King with friends and I find out there always are some words or sentences I do not really understand. So I searched on the web and listed them below and added sentences from LOL. There are always new things to me to learn. Keep learning!</p>
+</blockquote>
+<h1 id="All-Sentences"><a href="#All-Sentences" class="headerlink" title="All Sentences"></a>All Sentences</h1><p>First Blood </p>
+<p>Double Kill </p>
+<p>Triple Kill </p>
+<p><strong>Quadra</strong> Kill </p>
+<p><strong>Penta</strong> Kill </p>
+<p>Ace / Aced</p>
+<p>Killing <strong>Spree</strong> </p>
+<p><strong>Rampage</strong>  </p>
+<p>Unstoppable </p>
+<p><strong>Godlike</strong> </p>
+<p><strong>Legendary</strong> </p>
+<p><strong>Dominating</strong></p>
+<p>An enemy has been <strong>slain</strong>.  </p>
+<p>An <strong>ally</strong> has been slain. </p>
+<p>You have slain an enemy. </p>
+<p>You have been slain. </p>
+<p>Shut down!</p>
+<p><strong>Executed</strong>. </p>
+<p>Your <strong>turret</strong> has been destroyed. </p>
+<p>Your team has destroyed the turret.</p>
+<p>Your team has destroyed an <strong>inhibitor</strong>.</p>
+<p>Your inhibitor has been destroyed.</p>
+<p>Your inhibitor is respawning soon.</p>
+<p>The enemy’s inhibitor is respawning soon.</p>
+<p>Defeat. </p>
+<p>Victory. </p>
+<h1 id="quadra"><a href="#quadra" class="headerlink" title="quadra"></a>quadra</h1><h2 id="prefix-ˈpriːfɪks"><a href="#prefix-ˈpriːfɪks" class="headerlink" title="prefix /ˈpriːfɪks/"></a>prefix <em>/ˈpriːfɪks/</em></h2><ol>
+<li><p><strong>N</strong>-COUNT A <strong>prefix</strong> is a letter or group of letters, for example, “un-“ or “multi-,” that is added to the beginning of a word in order to form a different word. For example, the prefix “un-“ is added to “happy” to form “unhappy.” Compare and.</p>
 </li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">OpenSSL SSL_read: Connection was reset, errno 10054
-</code></pre>
-</li>
-<li><p><strong>解决方法</strong>：</p>
+<li><p>N-COUNT A <strong>prefix</strong> is one or more numbers or letters added to the beginning of a code number to indicate, for example, what area something belongs to. </p>
 <ul>
-<li><p>网络问题，多次尝试；</p>
-</li>
-<li><p>解决 ssl 验证，步骤如下：</p>
-<ol>
-<li><p>打开 “Git Bash Here”；</p>
-</li>
-<li><p>输入如下命令：</p>
-<pre><code class="bash">git config --global https.sslVerify &quot;false&quot;
-</code></pre>
-</li>
-<li><p>重新进行<code>hexo init</code>操作</p>
+<li>To telephone from the U.S. use the prefix 011 33 before the numbers given here.</li>
+</ul>
 </li>
 </ol>
+<h2 id="quadri-ˈkwɒdrɪ"><a href="#quadri-ˈkwɒdrɪ" class="headerlink" title="quadri-/ˈkwɒdrɪ/"></a>quadri-<em>/ˈkwɒdrɪ/</em></h2><p>pref. four</p>
+<h2 id="quadrangle-ˈkwɒdˌraeŋɡəl"><a href="#quadrangle-ˈkwɒdˌraeŋɡəl" class="headerlink" title="quadrangle /ˈkwɒdˌræŋɡəl/"></a>quadrangle <em>/ˈkwɒdˌræŋɡəl/</em></h2><ul>
+<li>N-COUNT A <strong>quadrangle</strong> is an open square area with buildings around it, especially in a college or school.</li>
+</ul>
+<h1 id="penta-ˈpentə"><a href="#penta-ˈpentə" class="headerlink" title="penta-/ˈpentə/"></a>penta-<em>/ˈpentə/</em></h1><p>pref. five</p>
+<h1 id="spree-spriː"><a href="#spree-spriː" class="headerlink" title="spree /spriː/"></a>spree <em>/spriː/</em></h1><ul>
+<li>N-COUNT If you spend a period of time doing something in an excessive way, you can say that you are going <strong>on</strong> a particular kind of <strong>spree</strong>. <ul>
+<li>Some people went on a spending spree in December to beat the new tax.</li>
+</ul>
+</li>
+</ul>
+<h1 id="rampage"><a href="#rampage" class="headerlink" title="rampage"></a>rampage</h1><p><strong>ræmˈpeɪdʒ</strong>，<strong>ˈræmpeɪdʒ</strong>。</p>
+<ol>
+<li>V-I When people or animals <strong>rampage</strong> through a place, they rush around there in a wild or violent way, causing damage or destruction. <ul>
+<li>Hundreds of youths rampaged through the town, smashing shop windows and overturning cars.</li>
+</ul>
+</li>
+<li>PHRASE If people go <strong>on a rampage</strong>, they rush around in a wild or violent way, causing damage or destruction. <ul>
+<li>The prisoners went on a rampage destroying everything in their way.</li>
+</ul>
+</li>
+</ol>
+<h1 id="godlike"><a href="#godlike" class="headerlink" title="godlike"></a>godlike</h1><ul>
+<li><p>A <strong>godlike</strong> person or a person with <strong>godlike</strong> qualities is admired or respected very much as if he or she were perfect. </p>
+<ul>
+<li><p>His energy and talent elevate him to godlike status.</p>
+</li>
+<li><p>They were godlike in their wisdom and compassion.</p>
 </li>
 </ul>
 </li>
 </ul>
-<br>
-
-<h1 id="git"><a href="#git" class="headerlink" title="git"></a>git</h1><h2 id="Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists"><a href="#Please-make-sure-you-have-the-correct-access-rights-and-the-repository-exists" class="headerlink" title="Please make sure you have the correct access rights and the repository exists"></a>Please make sure you have the correct access rights and the repository exists</h2><ul>
-<li><p><strong>报错位置</strong>：<code>hexo d</code>、<code>git push</code></p>
+<h1 id="dominate-ˈdɑːmɪneɪt"><a href="#dominate-ˈdɑːmɪneɪt" class="headerlink" title="dominate*/ˈdɑːmɪneɪt/*"></a>dominate*/ˈdɑːmɪneɪt/*</h1><ol>
+<li><p>V-T/V-I To <strong>dominate</strong> a situation means to be the most powerful or important person or thing in it. </p>
+<ul>
+<li>The book is expected to dominate the best-seller lists.</li>
+<li>…countries where life is dominated by war.</li>
+</ul>
 </li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">Please make sure you have the correct access rights and the repository exists
-</code></pre>
+<li><p>V-T If one country or person <strong>dominates</strong> another, they have power over them. </p>
 </li>
-<li><p><strong>解决方法</strong>：重配 SSH 公匙</p>
+</ol>
+<h1 id="legendary-ˈledʒəndərɪ"><a href="#legendary-ˈledʒəndərɪ" class="headerlink" title="legendary /ˈlɛdʒəndərɪ/"></a>legendary <em>/ˈlɛdʒəndərɪ/</em></h1><ol>
+<li><p>ADJ If you describe someone or something as <strong>legendary</strong>, you mean that they are very famous and that many stories are told about them. </p>
+<ul>
+<li>…the legendary Jazz singer Adelaide Hall.</li>
+</ul>
 </li>
-<li><p>注意：SSH 是添加到 <strong>github 个人</strong>下的设置里的，不是 repository 下的设置</p>
+<li><p>ADJ A <strong>legendary</strong> person, place, or event is mentioned or described in an old legend. </p>
+<ul>
+<li>The hill is supposed to be the resting place of the legendary King Lud.</li>
+</ul>
+</li>
+</ol>
+<h1 id="slay-sleɪ"><a href="#slay-sleɪ" class="headerlink" title="slay /sleɪ/"></a>slay <em>/sleɪ/</em></h1><p>slaying, slew (slayed), slain, slays </p>
+<ol>
+<li><p><strong>V-T</strong> to kill sb/sth in a war or a fight.</p>
+</li>
+<li><p>V-T If someone <strong>slays</strong> an animal, they kill it in a violent way. (formal)</p>
+<ul>
+<li>…the hill where St. George slew the dragon.</li>
+</ul>
+</li>
+<li><p>V-T PASSIVE If someone <strong>has been slain</strong>, they have been murdered. </p>
+<ul>
+<li>Two Australian tourists were slain.</li>
+</ul>
+</li>
+</ol>
+<h1 id="ally"><a href="#ally" class="headerlink" title="ally"></a>ally</h1><p>allying, allied, allies </p>
+<p>noun **/ælaɪ/**，verb **/əˈlaɪ/**。</p>
+<ol>
+<li><p>N-COUNT A country’s <strong>ally</strong> is another country that has an agreement to support it, especially in war. </p>
+<ul>
+<li>Washington would not take such a step without its allies’ approval.</li>
+</ul>
+</li>
+<li><p><strong>N</strong>-COUNT If you describe someone as your <strong>ally</strong>, you mean that they help and support you, especially when other people are opposing you. </p>
+<ul>
+<li>He is a close ally of the president.</li>
+</ul>
+</li>
+<li><p>V-T If you <strong>ally</strong> <strong>yourself with</strong> someone or something, you give your support to them. </p>
+<ul>
+<li>He will have no choice but to ally himself with the new movement.</li>
+</ul>
+</li>
+</ol>
+<h1 id="execute-ˈeksɪˌkjuːt"><a href="#execute-ˈeksɪˌkjuːt" class="headerlink" title="execute /ˈɛksɪˌkjuːt/"></a>execute <em>/ˈɛksɪˌkjuːt/</em></h1><p>( executing, executed, executes )</p>
+<ol>
+<li><p>V-T To <strong>execute</strong> someone means to kill them as a punishment for a serious crime. </p>
+<ul>
+<li><p>He said nobody had been executed as a direct result of the events.</p>
+</li>
+<li><p>One group claimed to have executed the hostage.</p>
 </li>
 </ul>
-<br>
-
-<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><h2 id="hexo-s"><a href="#hexo-s" class="headerlink" title="hexo s"></a>hexo s</h2><ul>
-<li><p><strong>报错位置</strong>：<code>hexo s</code></p>
 </li>
-<li><p><strong>提示信息</strong>：</p>
-<pre><code class="bash">Failed to load resource: the server responded with a status of 404(Not Found)
-
-(on the page)Cannot GET /
-</code></pre>
+<li><p>execution N-VAR </p>
+<ul>
+<li>Execution by lethal injection is scheduled for July 30th.</li>
+</ul>
 </li>
-<li><p><strong>解决方法</strong>：hexo 下 _posts 文件夹里如果没有 .md 文件（a post）就会出现这个问题，在文件夹中添加一个 post 就可以解决</p>
+<li><p>V-T If you <strong>execute</strong> a plan, you carry it out. (formal)</p>
+<ul>
+<li><p>We are going to execute our campaign plan to the letter.(to the letter: strictly)</p>
+</li>
+<li><p>U.S. forces are fully prepared for the execution of any action once the order is given by the president.</p>
 </li>
 </ul>
-<br>
-
-<hr>
-<blockquote>
-<p>很久没有倒腾博客了，这次在另一台电脑上部署就出了这么多问题，后悔第一次搭建博客的时候没有把碰到的问题记录下来，花了好多功夫才成功部署，补上补上！</p>
-</blockquote>
+</li>
+<li><p>V-T If you <strong>execute</strong> a difficult action or movement, you successfully perform it. </p>
+<ul>
+<li>The landing was skillfully executed.</li>
+</ul>
+</li>
+</ol>
+<h1 id="turret-ˈtvrɪt"><a href="#turret-ˈtvrɪt" class="headerlink" title="turret /ˈtʌrɪt/"></a>turret <em>/ˈtʌrɪt/</em></h1><ol>
+<li><p>N-COUNT A <strong>turret</strong> is a small narrow tower on top of a building or a larger tower. </p>
+</li>
+<li><p>N-COUNT The <strong>turret</strong> on a tank or warship is the part where the guns are fixed, which can be turned in any direction. </p>
+</li>
+</ol>
+<h1 id="inhibitor-ɪnˈhɪbɪtər"><a href="#inhibitor-ɪnˈhɪbɪtər" class="headerlink" title="inhibitor*/ɪnˈhɪbɪtər/*"></a>inhibitor*/ɪnˈhɪbɪtər/*</h1><ul>
+<li>N a person or thing that inhibits. (Also called inhibiter)</li>
+</ul>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源 </span>

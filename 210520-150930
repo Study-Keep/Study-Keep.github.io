@@ -2,21 +2,22 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>中英文缩写 | Hexo</title>
+  <title>Abbreviations | Hexo</title>
   <meta name="keywords" content=" 汇总 ">
-  <meta name="description" content="中英文缩写 | Hexo">
+  <meta name="description" content="Abbreviations | Hexo">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="文件下载在source目录下，新建download目录，和_posts等目录并列。然后，将需要分享的文件或者展示的图片统一放到该download文件夹下；在写博客文章时，通过如[点击下载](&#x2F;download&#x2F;xx.jpg)这样的链接，直接写入，点击跳转过后即可点击右键下载到本地。">
+<meta name="description" content="A  B  C  D  E  F  G  H  I  J  K  L  M  N  OOOSOOMsee [out of sight, out of mind](#out of sight) Out of sight, out of mind.Prov. If you do not see someone or something frequently, you will forget about">
 <meta property="og:type" content="article">
-<meta property="og:title" content="hexo小功能">
-<meta property="og:url" content="https://study-keep.github.io/210702-155229">
+<meta property="og:title" content="Idioms">
+<meta property="og:url" content="https://study-keep.github.io/210707-153150">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="文件下载在source目录下，新建download目录，和_posts等目录并列。然后，将需要分享的文件或者展示的图片统一放到该download文件夹下；在写博客文章时，通过如[点击下载](&#x2F;download&#x2F;xx.jpg)这样的链接，直接写入，点击跳转过后即可点击右键下载到本地。">
+<meta property="og:description" content="A  B  C  D  E  F  G  H  I  J  K  L  M  N  OOOSOOMsee [out of sight, out of mind](#out of sight) Out of sight, out of mind.Prov. If you do not see someone or something frequently, you will forget about">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2021-07-02T07:52:29.000Z">
-<meta property="article:modified_time" content="2021-07-02T09:45:43.566Z">
+<meta property="article:published_time" content="2021-07-07T07:31:50.000Z">
+<meta property="article:modified_time" content="2021-07-07T09:21:18.932Z">
 <meta property="article:author" content="Vera">
-<meta property="article:tag" content="hexo">
+<meta property="article:tag" content="写作">
+<meta property="article:tag" content="汇总">
 <meta name="twitter:card" content="summary">
 
 
@@ -268,27 +269,18 @@
                                 </li>
                             
                                 <li>
-                                    <div data-rel="笔记<--->日常/写作">
+                                    <div data-rel="笔记<--->日常">
                                         
-                                        日常/写作
-                                        
-                                    </div>
-                                    
-                                </li>
-                            
-                                <li>
-                                    <div data-rel="笔记<--->设计">
-                                        
-                                        设计
+                                        日常
                                         
                                     </div>
                                     
                                 </li>
                             
                                 <li>
-                                    <div data-rel="笔记<--->其它">
+                                    <div data-rel="笔记<--->归档">
                                         
-                                        其它
+                                        归档
                                         
                                     </div>
                                     
@@ -356,10 +348,6 @@
             
         
     
-        
-            
-        
-    
 </ul>
 <div class="left-bottom">
     <div class="menus">
@@ -373,8 +361,8 @@
         
     </div>
 </div>
-<input type="hidden" id="yelog_site_posts_number" value="11">
-<input type="hidden" id="yelog_site_word_count" value="3.5k">
+<input type="hidden" id="yelog_site_posts_number" value="12">
+<input type="hidden" id="yelog_site_word_count" value="3.9k">
 <div style="display: none">
     <span id="busuanzi_value_site_uv"></span>
     <span id="busuanzi_value_site_pv"></span>
@@ -462,11 +450,19 @@
     
     <nav id="title-list-nav">
         
-        <a  class="全部文章 "
-           href="/2021/07/05/temp/"
-           data-tag=""
+        <a  class="全部文章 笔记 English "
+           href="/210707-153150"
+           data-tag="写作,汇总"
            data-author="" >
-            <span class="post-title" title="temp">temp</span>
+            <span class="post-title" title="Idioms">Idioms</span>
+            <span class="post-date" title="2021-07-07 15:31:50">2021/07/07</span>
+        </a>
+        
+        <a  class="全部文章 笔记 归档 "
+           href="/210705-173838"
+           data-tag="汇总"
+           data-author="" >
+            <span class="post-title" title="文件/资料下载">文件/资料下载</span>
             <span class="post-date" title="2021-07-05 17:38:38">2021/07/05</span>
         </a>
         
@@ -478,15 +474,15 @@
             <span class="post-date" title="2021-07-02 15:52:29">2021/07/02</span>
         </a>
         
-        <a  class="全部文章 笔记 设计 "
+        <a  class="全部文章 笔记 归档 "
            href="/210630-104644"
            data-tag="设计,汇总"
            data-author="" >
-            <span class="post-title" title="设计可用网站汇总">设计可用网站汇总</span>
+            <span class="post-title" title="网站汇总">网站汇总</span>
             <span class="post-date" title="2021-06-30 10:46:44">2021/06/30</span>
         </a>
         
-        <a  class="全部文章 笔记 日常/写作 "
+        <a  class="全部文章 笔记 日常 "
            href="/210609-142548"
            data-tag="日常,写作"
            data-author="" >
@@ -498,7 +494,7 @@
            href="/210528-150944"
            data-tag="game"
            data-author="" >
-            <span class="post-title" title="Learning English From League of Legends">Learning English From League of Legends</span>
+            <span class="post-title" title="League of Legends">League of Legends</span>
             <span class="post-date" title="2021-05-28 15:09:44">2021/05/28</span>
         </a>
         
@@ -518,11 +514,11 @@
             <span class="post-date" title="2021-05-24 10:58:41">2021/05/24</span>
         </a>
         
-        <a  class="全部文章 笔记 其它 "
+        <a  class="全部文章 笔记 English "
            href="/210520-150930"
            data-tag="汇总"
            data-author="" >
-            <span class="post-title" title="中英文缩写">中英文缩写</span>
+            <span class="post-title" title="Abbreviations">Abbreviations</span>
             <span class="post-date" title="2021-05-20 15:09:30">2021/05/20</span>
         </a>
         
@@ -568,9 +564,9 @@
 </aside>
 <div id="post">
     <div class="pjax">
-        <article id="post-中英文缩写" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-E-Abbreviations" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">中英文缩写</h1>
+        <h1 class="article-title">Abbreviations</h1>
     
     <div class="article-meta">
         
@@ -582,7 +578,7 @@
             
             <a  data-rel="笔记">笔记</a> > 
             
-            <a  data-rel="笔记&lt;---&gt;其它">其它</a>
+            <a  data-rel="笔记&lt;---&gt;English">English</a>
             
         </span>
         
@@ -597,12 +593,12 @@
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2021-07-06 14:35:01'>2021-05-20 15:09</time>
+            发布时间 : <time class="date" title='最后更新: 2021-07-07 15:59:03'>2021-05-20 15:09</time>
         
     </div>
     <div class="article-meta">
         
-        <span>字数:1.5k</span>
+        <span>字数:1.6k</span>
         
         
         
@@ -610,7 +606,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">#</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#3C"><span class="toc-text">3C</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#A"><span class="toc-text">A</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#ADX"><span class="toc-text">ADX</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AOI"><span class="toc-text">AOI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AQI"><span class="toc-text">AQI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#B"><span class="toc-text">B</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#C"><span class="toc-text">C</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#ctime"><span class="toc-text">ctime</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#CPM"><span class="toc-text">CPM</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#D"><span class="toc-text">D</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#DAU"><span class="toc-text">DAU</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DMP"><span class="toc-text">DMP</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DSP"><span class="toc-text">DSP</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#E"><span class="toc-text">E</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#F"><span class="toc-text">F</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#G"><span class="toc-text">G</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#GSM"><span class="toc-text">GSM</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#H"><span class="toc-text">H</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#I"><span class="toc-text">I</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#IAQI"><span class="toc-text">IAQI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IDFA"><span class="toc-text">IDFA</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IMEI"><span class="toc-text">IMEI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#J"><span class="toc-text">J</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#K"><span class="toc-text">K</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#KA"><span class="toc-text">KA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#L"><span class="toc-text">L</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#M"><span class="toc-text">M</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#mtime"><span class="toc-text">mtime</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#MAC-%E5%9C%B0%E5%9D%80"><span class="toc-text">MAC 地址</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#MAU"><span class="toc-text">MAU</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#N"><span class="toc-text">N</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#O"><span class="toc-text">O</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#P"><span class="toc-text">P</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#POI"><span class="toc-text">POI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Q"><span class="toc-text">Q</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#QA"><span class="toc-text">QA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#R"><span class="toc-text">R</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#RTB"><span class="toc-text">RTB</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#S"><span class="toc-text">S</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#SaaS"><span class="toc-text">SaaS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#SDET"><span class="toc-text">SDET</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#T"><span class="toc-text">T</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#U"><span class="toc-text">U</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#UDID"><span class="toc-text">UDID</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#UUID"><span class="toc-text">UUID</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#V"><span class="toc-text">V</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#W"><span class="toc-text">W</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#X"><span class="toc-text">X</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81"><span class="toc-text">消费电子产品</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Y"><span class="toc-text">Y</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Z"><span class="toc-text">Z</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Appendix"><span class="toc-text">Appendix</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1"><span class="toc-text">1.</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2"><span class="toc-text">2.</span></a></li></ol></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">#</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#3C"><span class="toc-text">3C</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#A"><span class="toc-text">A</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#ADX"><span class="toc-text">ADX</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AOI"><span class="toc-text">AOI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AQI"><span class="toc-text">AQI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#B"><span class="toc-text">B</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#C"><span class="toc-text">C</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#ctime"><span class="toc-text">ctime</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#CPM"><span class="toc-text">CPM</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#CTA"><span class="toc-text">CTA*</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#D"><span class="toc-text">D</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#DAU"><span class="toc-text">DAU</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DMP"><span class="toc-text">DMP</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#DSP"><span class="toc-text">DSP</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#E"><span class="toc-text">E</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#F"><span class="toc-text">F</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#G"><span class="toc-text">G</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#GSM"><span class="toc-text">GSM</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#H"><span class="toc-text">H</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#I"><span class="toc-text">I</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#IAQI"><span class="toc-text">IAQI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IDFA"><span class="toc-text">IDFA</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#IMEI"><span class="toc-text">IMEI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#J"><span class="toc-text">J</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#K"><span class="toc-text">K</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#KA"><span class="toc-text">KA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#L"><span class="toc-text">L</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#M"><span class="toc-text">M</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#mtime"><span class="toc-text">mtime</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#MAC-%E5%9C%B0%E5%9D%80"><span class="toc-text">MAC 地址</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#MAU"><span class="toc-text">MAU</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#N"><span class="toc-text">N</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#O"><span class="toc-text">O</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#P"><span class="toc-text">P</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#POI"><span class="toc-text">POI</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Q"><span class="toc-text">Q</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#QA"><span class="toc-text">QA</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#R"><span class="toc-text">R</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#RTB"><span class="toc-text">RTB</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#S"><span class="toc-text">S</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#SaaS"><span class="toc-text">SaaS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#SDET"><span class="toc-text">SDET</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#T"><span class="toc-text">T</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#U"><span class="toc-text">U</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#UDID"><span class="toc-text">UDID</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#UUID"><span class="toc-text">UUID</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#V"><span class="toc-text">V</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#W"><span class="toc-text">W</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#X"><span class="toc-text">X</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81"><span class="toc-text">消费电子产品</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Y"><span class="toc-text">Y</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Z"><span class="toc-text">Z</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Appendix"><span class="toc-text">Appendix</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1"><span class="toc-text">1.</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2"><span class="toc-text">2.</span></a></li></ol></li></ol></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -626,7 +622,8 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h1 id=""><a href="#" class="headerlink" title="#"></a>#</h1><h2 id="3C"><a href="#3C" class="headerlink" title="3C"></a><span id="3C">3C</span></h2><p>3C 数码的简称，3C 指的是 <strong>Computer、Communication、Consumer Electronics</strong>，即电脑、通讯、消费电子产品。（引申：<a href="#%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81">消费电子产品</a>）</p>
+        <p>abbreviation[əˌbriːviˈeɪʃn]</p>
+<h1 id=""><a href="#" class="headerlink" title="#"></a>#</h1><h2 id="3C"><a href="#3C" class="headerlink" title="3C"></a><span id="3C">3C</span></h2><p>3C 数码的简称，3C 指的是 <strong>Computer、Communication、Consumer Electronics</strong>，即电脑、通讯、消费电子产品。（引申：<a href="#%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81">消费电子产品</a>）</p>
 <br>
 
 <h1 id="A"><a href="#A" class="headerlink" title="A"></a>A</h1><h2 id="ADX"><a href="#ADX" class="headerlink" title="ADX"></a><span id="ADX">ADX</span></h2><p><strong>AD Exchange</strong>，广告交易平台。</p>
@@ -638,6 +635,7 @@
 
 <h1 id="C"><a href="#C" class="headerlink" title="C"></a>C</h1><h2 id="ctime"><a href="#ctime" class="headerlink" title="ctime"></a><span id="ctime">ctime</span></h2><p><strong>change time</strong>，改变的时间。更改文件的任何属性时都会改变。（引申：<a href="#mtime">mtime</a>）</p>
 <h2 id="CPM"><a href="#CPM" class="headerlink" title="CPM"></a><span id="CPM">CPM</span></h2><p><strong>Cost Per Mille</strong>[mil]，千人成本。网络广告收费最好的方式是按照有多少人看到了广告来进行收费。CPM（千人成本）指的是在广告投放过程中，平均让一千个人听到或看到该广告一次一共所需要的广告成本，有相应计算公式。</p>
+<h2 id="CTA"><a href="#CTA" class="headerlink" title="CTA*"></a><span id="CTA">CTA</span>*</h2><p>CTA按钮，（又名行为召唤按钮）是Web和移动软件应用中最常用的交互元素：其主要作用就是引导人们做出某些特定行为，例如购买，联系或订阅等。</p>
 <br>
 
 <h1 id="D"><a href="#D" class="headerlink" title="D"></a>D</h1><h2 id="DAU"><a href="#DAU" class="headerlink" title="DAU"></a><span id="DAU">DAU</span></h2><p><strong>Daily Active User</strong>，日活跃用户数量。（引申：<a href="#MAU">MAU</a>）</p>

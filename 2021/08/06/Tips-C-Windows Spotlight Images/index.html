@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Windows聚焦文件路径及批量修改文件格式方法 | BE PATIENT</title>
+  <meta name="keywords" content=" windows ">
+  <meta name="description" content="Windows聚焦文件路径及批量修改文件格式方法 | BE PATIENT">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="有需求才有动力1. 每行&#x2F;段前后行距过大有时候从外部文件或网站复制内容到文档当中时，会出现每行&#x2F;段的前面或后面空白很大的情况，在行距没有问题的情况下，要关注同样“间距”栏下的段前段后间距。   2. 插入的表格后总是有一行插入表格后，表格后会自动添加一行，这一行是不能用 Backspace 键删除的，如果不添加内容的话有时候会对文档的排版有影响，有两种常见方法：  方法一：选中空白行，段落-&amp;gt">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Word知识点汇总">
+<meta property="og:url" content="https://study-keep.github.io/2021/08/12/Notes-L-Word-KN/index.html">
+<meta property="og:site_name" content="BE PATIENT">
+<meta property="og:description" content="有需求才有动力1. 每行&#x2F;段前后行距过大有时候从外部文件或网站复制内容到文档当中时，会出现每行&#x2F;段的前面或后面空白很大的情况，在行距没有问题的情况下，要关注同样“间距”栏下的段前段后间距。   2. 插入的表格后总是有一行插入表格后，表格后会自动添加一行，这一行是不能用 Backspace 键删除的，如果不添加内容的话有时候会对文档的排版有影响，有两种常见方法：  方法一：选中空白行，段落-&amp;gt">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://i.loli.net/2021/08/12/1qhP83y7s4pNnHf.png">
+<meta property="article:published_time" content="2021-08-12T03:36:23.000Z">
+<meta property="article:modified_time" content="2021-08-12T09:58:23.828Z">
+<meta property="article:author" content="f.x">
+<meta property="article:tag" content="knowledge node">
+<meta property="article:tag" content="word">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://i.loli.net/2021/08/12/1qhP83y7s4pNnHf.png">
+
+
+<link rel="icon" href="/img/profile photo.jpg">
+
+<link href="/css/style.css?v=1.1.0" rel="stylesheet">
+
+<link href="/css/hl_theme/sublime.css?v=1.1.0" rel="stylesheet">
+
+<link href="//cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css" rel="stylesheet">
+
+<script src="//cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="/js/titleTip.js?v=1.1.0" ></script>
+
+<script src="//cdn.jsdelivr.net/npm/highlightjs@9.16.2/highlight.pack.min.js"></script>
+<script>
+    hljs.initHighlightingOnLoad();
+</script>
+
+<script src="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js"></script>
+
+
+
+<script src="//cdn.jsdelivr.net/npm/jquery.cookie@1.4.1/jquery.cookie.min.js" ></script>
+
+<script src="/js/iconfont.js?v=1.1.0" ></script>
+
+<meta name="generator" content="Hexo 5.4.0"></head>
+<div style="display: none">
+  <input class="theme_disqus_on" value="false">
+  <input class="theme_preload_comment" value="">
+  <input class="theme_blog_path" value="">
+  <input id="theme_shortcut" value="true" />
+  <input id="theme_highlight_on" value="true" />
+  <input id="theme_code_copy" value="true" />
+</div>
+
+
+
+<body>
+<aside class="nav">
+    <div class="nav-left">
+        <a href="/"
+   class="avatar_target">
+    <img class="avatar"
+         src="/img/profile photo.jpg"/>
+</a>
+<div class="author">
+    <span>f.x</span>
+</div>
+<div class="icon">
+    
+</div>
+
+
+
+
+
+<ul>
+    <li>
+        <div class="all active" data-rel="全部文章">全部文章
+            
+        </div>
+    </li>
+    
+        
+            
+                <li>
+                    <div data-rel="笔记">
+                        <i class="fold iconfont icon-right"></i>
+                        
+                        笔记
+                        
+                    </div>
+                    
+                        <ul class="sub hide">
+                            
+                                <li>
+                                    <div data-rel="笔记<--->English">
+                                        
+                                        English
+                                        
+                                    </div>
+                                    
+                                </li>
+                            
+                                <li>
+                                    <div data-rel="笔记<--->学习">
+                                        
+                                        学习
+                                        
+                                    </div>
+                                    
+                                </li>
+                            
+                                <li>
+                                    <div data-rel="笔记<--->归档">
+                                        
+                                        归档
+                                        
+                                    </div>
+                                    
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+        
+    
+        
+            
+                <li>
+                    <div data-rel="小技巧">
+                        <i class="fold iconfont icon-right"></i>
+                        
+                        小技巧
+                        
+                    </div>
+                    
+                        <ul class="sub hide">
+                            
+                                <li>
+                                    <div data-rel="小技巧<--->配置">
+                                        
+                                        配置
+                                        
+                                    </div>
+                                    
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+        
+    
+        
+            
+        
+    
+        
+            
+        
+    
+        
+            
+        
+    
+        
+            
+        
+    
+</ul>
+<div class="left-bottom">
+    <div class="menus">
+        
+            
+            
+            
+    </div>
+    <div>
+        
+        
+    </div>
+</div>
+<input type="hidden" id="yelog_site_posts_number" value="15">
+<input type="hidden" id="yelog_site_word_count" value="6.2k">
+<div style="display: none">
+    <span id="busuanzi_value_site_uv"></span>
+    <span id="busuanzi_value_site_pv"></span>
+</div>
+
+    </div>
+    <div class="nav-right">
+        <div class="friends-area">
+    <div class="friends-title">
+        友情链接
+        <i class="iconfont icon-left"></i>
+    </div>
+    <div class="friends-content">
+        <ul>
+            
+            <li><a target="_blank" href="http://yelog.org/">叶落阁</a></li>
+            
+        </ul>
+    </div>
+</div>
+        <div class="title-list">
+    <div class="right-top">
+        <div id="default-panel">
+            <i class="iconfont icon-search" data-title="搜索 快捷键 i"></i>
+            <div class="right-title">全部文章</div>
+            <i class="iconfont icon-file-tree" data-title="切换到大纲视图 快捷键 w"></i>
+        </div>
+        <div id="search-panel">
+            <i class="iconfont icon-left" data-title="返回"></i>
+            <input id="local-search-input" autocomplete="off"/>
+            <label class="border-line" for="input"></label>
+            <i class="iconfont icon-case-sensitive" data-title="大小写敏感"></i>
+            <i class="iconfont icon-tag" data-title="标签"></i>
+        </div>
+        <div id="outline-panel" style="display: none">
+            <div class="right-title">大纲</div>
+            <i class="iconfont icon-list" data-title="切换到文章列表"></i>
+        </div>
+    </div>
+
+    <div class="tags-list">
+    <input id="tag-search" />
+    <div class="tag-wrapper">
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>汇总</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>日常</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>设计</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>小技能</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>写作</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>学习</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>excel</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>game</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>git</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>hexo</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>knowledge node</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>markdown</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>windows</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>word</a>
+            </li>
+        
+    </div>
+
+</div>
+
+    
+    <nav id="title-list-nav">
+        
+        <a  class="全部文章 笔记 学习 "
+           href="/2021/08/12/Notes-L-Word-KN/"
+           data-tag="knowledge node,word"
+           data-author="" >
+            <span class="post-title" title="Word知识点汇总">Word知识点汇总</span>
+            <span class="post-date" title="2021-08-12 11:36:23">2021/08/12</span>
+        </a>
+        
+        <a  class="全部文章 小技巧 配置 "
+           href="/2021/08/06/Tips-C-Windows%20Spotlight%20Images/"
+           data-tag="windows"
+           data-author="" >
+            <span class="post-title" title="Windows聚焦文件路径及批量修改文件格式方法">Windows聚焦文件路径及批量修改文件格式方法</span>
+            <span class="post-date" title="2021-08-06 23:29:31">2021/08/06</span>
+        </a>
+        
+        <a  class="全部文章 笔记 学习 "
+           href="/2021/08/06/Notes-L-Rubik's%20Cube%20Restore/"
+           data-tag="学习,小技能"
+           data-author="" >
+            <span class="post-title" title="三阶魔方还原基础公式">三阶魔方还原基础公式</span>
+            <span class="post-date" title="2021-08-06 16:02:38">2021/08/06</span>
+        </a>
+        
+        <a  class="全部文章 笔记 English "
+           href="/2021/07/13/Notes-E-Clothing%20Care%20Labels/"
+           data-tag="日常,学习"
+           data-author="" >
+            <span class="post-title" title="Clothing Care Labels">Clothing Care Labels</span>
+            <span class="post-date" title="2021-07-13 17:44:53">2021/07/13</span>
+        </a>
+        
+        <a  class="全部文章 笔记 English "
+           href="/2021/07/07/Notes-E-Idioms/"
+           data-tag="汇总,学习,写作"
+           data-author="" >
+            <span class="post-title" title="Idioms">Idioms</span>
+            <span class="post-date" title="2021-07-07 15:31:50">2021/07/07</span>
+        </a>
+        
+        <a  class="全部文章 笔记 归档 "
+           href="/2021/07/05/Notes-A-Download/"
+           data-tag="汇总"
+           data-author="" >
+            <span class="post-title" title="文件/资料下载">文件/资料下载</span>
+            <span class="post-date" title="2021-07-05 17:38:38">2021/07/05</span>
+        </a>
+        
+        <a  class="全部文章 小技巧 配置 "
+           href="/2021/07/02/Tips-C-Hexo%20Other%20Functions/"
+           data-tag="hexo"
+           data-author="" >
+            <span class="post-title" title="Hexo小功能">Hexo小功能</span>
+            <span class="post-date" title="2021-07-02 15:52:29">2021/07/02</span>
+        </a>
+        
+        <a  class="全部文章 笔记 归档 "
+           href="/2021/06/30/Notes-A-Site%20Collection/"
+           data-tag="设计,汇总"
+           data-author="" >
+            <span class="post-title" title="网站汇总">网站汇总</span>
+            <span class="post-date" title="2021-06-30 10:46:44">2021/06/30</span>
+        </a>
+        
+        <a  class="全部文章 笔记 学习 "
+           href="/2021/06/09/Notes-L-Idioms/"
+           data-tag="日常,学习,写作"
+           data-author="" >
+            <span class="post-title" title="成语小记">成语小记</span>
+            <span class="post-date" title="2021-06-09 14:25:48">2021/06/09</span>
+        </a>
+        
+        <a  class="全部文章 笔记 English "
+           href="/2021/05/28/Notes-E-League%20of%20Legends/"
+           data-tag="game"
+           data-author="" >
+            <span class="post-title" title="League of Legends">League of Legends</span>
+            <span class="post-date" title="2021-05-28 15:09:44">2021/05/28</span>
+        </a>
+        
+        <a  class="全部文章 笔记 学习 "
+           href="/2021/05/24/Notes-L-Markdown%20KN/"
+           data-tag="markdown,knowledge node"
+           data-author="" >
+            <span class="post-title" title="Markdown知识点汇总">Markdown知识点汇总</span>
+            <span class="post-date" title="2021-05-24 11:14:26">2021/05/24</span>
+        </a>
+        
+        <a  class="全部文章 小技巧 配置 "
+           href="/2021/05/24/Tips-C-Git%20&%20Hexo%20Command/"
+           data-tag="git,hexo"
+           data-author="" >
+            <span class="post-title" title="Git&amp;Hexo常用命令">Git&amp;Hexo常用命令</span>
+            <span class="post-date" title="2021-05-24 10:58:41">2021/05/24</span>
+        </a>
+        
+        <a  class="全部文章 笔记 English "
+           href="/2021/05/20/Notes-E-Abbreviations/"
+           data-tag="汇总"
+           data-author="" >
+            <span class="post-title" title="Abbreviations">Abbreviations</span>
+            <span class="post-date" title="2021-05-20 15:09:30">2021/05/20</span>
+        </a>
+        
+        <a  class="全部文章 笔记 学习 "
+           href="/2021/05/20/Notes-L-Excel%20KN/"
+           data-tag="excel,knowledge node"
+           data-author="" >
+            <span class="post-title" title="Excel知识点汇总">Excel知识点汇总</span>
+            <span class="post-date" title="2021-05-20 11:09:54">2021/05/20</span>
+        </a>
+        
+        <a  class="全部文章 小技巧 配置 "
+           href="/2021/05/18/Tips-C-Git%20&%20Hexo%20Common%20Problems/"
+           data-tag="git,hexo"
+           data-author="" >
+            <span class="post-title" title="Git&amp;Hexo常见错误及解决方法">Git&amp;Hexo常见错误及解决方法</span>
+            <span class="post-date" title="2021-05-18 16:03:07">2021/05/18</span>
+        </a>
+        
+        <div id="no-item-tips">
+
+        </div>
+    </nav>
+    <div id="outline-list">
+    </div>
+</div>
+
+    </div>
+    <div class="hide-list">
+        <div class="semicircle" data-title="切换全屏 快捷键 s">
+            <div class="brackets first"><</div>
+            <div class="brackets">&gt;</div>
+        </div>
+    </div>
+</aside>
+<div id="post">
+    <div class="pjax">
+        <article id="post-Tips-C-Windows Spotlight Images" class="article article-type-post" itemscope itemprop="blogPost">
+    
+        <h1 class="article-title">Windows聚焦文件路径及批量修改文件格式方法</h1>
+    
+    <div class="article-meta">
+        
+        
+        
+        <span class="book">
+            <i class="iconfont icon-category"></i>
+            
+            
+            <a  data-rel="小技巧">小技巧</a> > 
+            
+            <a  data-rel="小技巧&lt;---&gt;配置">配置</a>
+            
+        </span>
+        
+        
+        <span class="tag">
+            <i class="iconfont icon-tag"></i>
+            
+            <a class="color3">windows</a>
+            
+        </span>
+        
+    </div>
+    <div class="article-meta">
+        
+            发布时间 : <time class="date" title='最后更新: 2021-08-06 23:38:20'>2021-08-06 23:29</time>
+        
+    </div>
+    <div class="article-meta">
+        
+        <span>字数:387</span>
+        
+        
+        
+    </div>
+    
+    <div class="toc-ref">
+    
+        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#windows%E8%81%9A%E7%84%A6%E9%94%81%E5%B1%8F%E5%A3%81%E7%BA%B8%E6%96%87%E4%BB%B6%E4%BF%9D%E5%AD%98%E8%B7%AF%E5%BE%84"><span class="toc-text">windows聚焦锁屏壁纸文件保存路径</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#cmd%E5%9C%A8%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8D%95%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F"><span class="toc-text">cmd在文件夹中的简单打开方式</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#cmd%E5%91%BD%E4%BB%A4%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E5%9B%BE%E7%89%87%E6%A0%BC%E5%BC%8F"><span class="toc-text">cmd命令批量修改图片格式</span></a></li></ol>
+    
+<style>
+    .left-col .switch-btn,
+    .left-col .switch-area {
+        display: none;
+    }
+    .toc-level-3 i,
+    .toc-level-3 ol {
+        display: none !important;
+    }
+</style>
+</div>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <blockquote>
+<p>有时候会发现windows聚焦有自己特别中意的锁屏，就想保存下来，但图片不太好找，问了度娘之后也顺带学了些小技巧，一并记录下来</p>
+</blockquote>
+<h2 id="windows聚焦锁屏壁纸文件保存路径"><a href="#windows聚焦锁屏壁纸文件保存路径" class="headerlink" title="windows聚焦锁屏壁纸文件保存路径"></a>windows聚焦锁屏壁纸文件保存路径</h2><p>文件的保存路径是这样的：</p>
+<pre><code class="markdown">C:\Users\你的用户名\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
+</code></pre>
+<p>如果还想更方便一点，可以直接复制粘贴下面的地址到文件管理器：</p>
+<pre><code class="markdown">%localappdata%\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
+</code></pre>
+<br/>
+
+<h2 id="cmd在文件夹中的简单打开方式"><a href="#cmd在文件夹中的简单打开方式" class="headerlink" title="cmd在文件夹中的简单打开方式"></a>cmd在文件夹中的简单打开方式</h2><p>看了很多打开cmd的教程，不外乎都是win+R，然后输入cmd打开，但万一文件夹的位置比较“靠下”呢？用命令定位到文件夹还是要花费很长的时间，不太方便。</p>
+<p>所以用cmd打开指定文件夹（尤其是文件夹层级比较多的时候）有一个简单的方式：<font color='red'><strong>打开文件夹所在位置，删掉文件夹上方路径框内的内容，输入cmd，敲回车</strong></font>，搞定！</p>
+<br/>
+
+<h2 id="cmd命令批量修改图片格式"><a href="#cmd命令批量修改图片格式" class="headerlink" title="cmd命令批量修改图片格式"></a>cmd命令批量修改图片格式</h2><p>举例：</p>
+<p><code>ren *.png *.jpg</code>：ren是命令名称，*是通配符，表示所有同一种类型的文件格式。该命令的意思就是将该文件夹中所有的png格式图片转化为JPG格式的图片。注意ren后有空格，.png后面有空格。</p>
+<p>那么<code>ren *. *.jpg</code>就是把没有确切文件类型的图片转换成JPG格式的图片，在保存windows聚焦锁屏的时候用得上。</p>
+
+      
+       <hr><span style="font-style: italic;color: gray;"> 转载请注明来源 </span>
+    </div>
+</article>
+
+
+
+
+
+
+
+    
+
+
+
+
+    </div>
+    <div class="copyright">
+        <p class="footer-entry">
+    ©2021 f.x
+</p>
+<p class="footer-entry">Built with <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/yelog/hexo-theme-3-hexo" target="_blank">3-hexo</a> theme</p>
+
+    </div>
+    <div class="full-toc">
+        <button class="full" data-title="切换全屏 快捷键 s"><span class="min "></span></button>
+<a class="" id="rocket" ></a>
+
+    </div>
+</div>
+
+</body>
+<script src="/js/jquery.pjax.js?v=1.1.0" ></script>
+
+<script src="/js/script.js?v=1.1.0" ></script>
+<script>
+    var img_resize = 'default';
+    function initArticle() {
+        /*渲染对应的表格样式*/
+        
+            $("#post .pjax table").addClass("green_title");
+        
+
+        /*渲染打赏样式*/
+        
+
+        /*高亮代码块行号*/
+        
+
+        /*访问数量*/
+        
+
+        /*代码高亮，行号对齐*/
+        $('.pre-numbering').css('line-height',$('.has-numbering').css('line-height'));
+
+        
+        
+    }
+
+    /*打赏页面隐藏与展示*/
+    
+
+</script>
+
+<!--加入行号的高亮代码块样式-->
+
+<!--自定义样式设置-->
+<style>
+    
+    
+    .nav {
+        width: 542px;
+    }
+    .nav.fullscreen {
+        margin-left: -542px;
+    }
+    .nav-left {
+        width: 120px;
+    }
+    
+    
+    @media screen and (max-width: 1468px) {
+        .nav {
+            width: 492px;
+        }
+        .nav.fullscreen {
+            margin-left: -492px;
+        }
+        .nav-left {
+            width: 100px;
+        }
+    }
+    
+    
+    @media screen and (max-width: 1024px) {
+        .nav {
+            width: 492px;
+            margin-left: -492px
+        }
+        .nav.fullscreen {
+            margin-left: 0;
+        }
+    }
+    
+    @media screen and (max-width: 426px) {
+        .nav {
+            width: 100%;
+        }
+        .nav-left {
+            width: 100%;
+        }
+    }
+    
+    
+    .nav-right .title-list nav a .post-title, .nav-right .title-list #local-search-result a .post-title {
+        color: #383636;
+    }
+    
+    
+    .nav-right .title-list nav a .post-date, .nav-right .title-list #local-search-result a .post-date {
+        color: #5e5e5f;
+    }
+    
+    
+    .nav-right nav a.hover, #local-search-result a.hover{
+        background-color: #e2e0e0;
+    }
+    
+    
+
+    /*列表样式*/
+    
+
+    /* 背景图样式 */
+    
+    
+
+
+    /*引用块样式*/
+    
+
+    /*文章列表背景图*/
+    
+
+    
+</style>
+
+
+
+
+
+
+
+</html>
